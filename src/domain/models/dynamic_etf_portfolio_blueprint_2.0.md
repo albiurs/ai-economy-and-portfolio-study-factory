@@ -108,14 +108,22 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 # Block 2: ALGORITHMISCHER WORKFLOW ZUR BERICHTERSTELLUNG (STUFE 1 & 2)
 
 ## Executive Summary
-Erstelle eine kurze, prägnante Zusammenfassung. Nenne das Anlageziel, die finale Portfolio-Allokation und die wichtigsten quantitativen Merkmale. Belege jede Aussage mit `##REF_X##`.
+Erstelle zu Beginn eine kurze, prägnante Zusammenfassung als eigenständige Übersicht für einen zeitkritischen Entscheidungsträger. Nenne das Anlageziel, die in Abschnitt 'III. RESULTS' und 'IV. DISCUSSION' präsentierte und begründete prozentuale Allokation zwischen den ETFs und die wichtigsten quantitativen Merkmale des resultierenden Portfolios.
 
+JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
 
 ## I. INTRODUCTION
-Leite die Studie ein und definiere Zweck und Ziele basierend auf '1.1. Rahmenbedingungen des Portfolios'.
+Leite die Studie ein, indem du die wissenschaftlichen Hintergründe der Anlagetheorie, Diversifikation (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) erläuterst. Beschreibe die Herausforderungen betreffend die globalen makroökonomischen und geopolitischen Zusammenhänge sowie dessen Wichtigkeit für die Zusammenstellung eines Wertschriftenportfolios.
 
+JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
+
+Erläutere zum Schluss der Einleitung das fehlende Wissen betreffend die aktuelle globale makroökonomische und geopolitische Situation. 
+Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und geopolitische Situation zu analysieren und aufgrund der Basis der Resultate ein (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) diversifiziertes Musterportfolio zusammenzustellen. 
 
 ## II. METHODS
+
+Erläutere die in **Block 1** unter **'1.1. Rahmenbedingungen des Portfolios'** festgelegten Parameter (Anlageziel, Risikoprofil, Horizont etc.) als Grundlage für die nachfolgende Analyse.
+
 * **A. Materials and Selection Criteria:** Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien aus Abschnitt '1.2.'. Erwähne die Fallback-Logik.
 
 * **B. Target Allocation Strategy:** Präsentiere die in Abschnitt '1.3.' hergeleitete Ziel-Allokation und die dazugehörige Begründungstabelle '1.3.1'.

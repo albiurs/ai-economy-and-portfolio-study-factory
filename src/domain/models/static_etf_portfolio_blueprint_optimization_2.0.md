@@ -98,13 +98,23 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 # Block 2: ALGORITHMISCHER WORKFLOW ZUR BERICHTERSTELLUNG (STUFE 1 & 2)
 
-**Executive Summary**
-Erstelle zu Beginn eine kurze, prägnante Zusammenfassung als eigenständige Übersicht für einen zeitkritischen Entscheidungsträger. Nenne das Anlageziel, die in Abschnitt III.C präsentierte und in III.B begründete prozentuale Allokation zwischen den ETFs und die wichtigsten quantitativen Merkmale des resultierenden Portfolios. Jede Aussage muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
+## Executive Summary
+Erstelle zu Beginn eine kurze, prägnante Zusammenfassung als eigenständige Übersicht für einen zeitkritischen Entscheidungsträger. Nenne das Anlageziel, die in Abschnitt 'III. RESULTS' und 'IV. DISCUSSION' präsentierte und begründete prozentuale Allokation zwischen den ETFs und die wichtigsten quantitativen Merkmale des resultierenden Portfolios.
 
-**I. INTRODUCTION**
-Leite die Studie ein, indem du den Zweck und die Ziele definierst. Erläutere die in **Block 1** unter **'1.1. Rahmenbedingungen des Portfolios'** festgelegten Parameter (Anlageziel, Risikoprofil, Horizont etc.) als Grundlage für die nachfolgende Analyse.
+JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
 
-**II. METHODS**
+## I. INTRODUCTION
+Leite die Studie ein, indem du die wissenschaftlichen Hintergründe der Anlagetheorie, Diversifikation (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) erläuterst. Beschreibe die Herausforderungen betreffend die globalen makroökonomischen und geopolitischen Zusammenhänge sowie dessen Wichtigkeit für die Zusammenstellung eines Wertschriftenportfolios.
+
+JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
+
+Erläutere zum Schluss der Einleitung das fehlende Wissen betreffend die aktuelle globale makroökonomische und geopolitische Situation. 
+Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und geopolitische Situation zu analysieren und aufgrund der Basis der Resultate ein (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) diversifiziertes Musterportfolio zusammenzustellen. 
+
+## II. METHODS
+
+Erläutere die in **Block 1** unter **'1.1. Rahmenbedingungen des Portfolios'** festgelegten Parameter (Anlageziel, Risikoprofil, Horizont etc.) als Grundlage für die nachfolgende Analyse.
+
 Beschreibe die Methodik, die zur Erstellung und Analyse des Portfolios verwendet wird.
 *   **A. Materials:** Liste die in **Block 1** unter **'1.2. Ausgewählte Anlageinstrumente'** definierten ETFs als die für die Studie zur Verfügung stehenden Materialien auf.
 *   **B. Target Parameters:** Präsentiere die vom Benutzer in **Block 1** unter **'1.3. Strategische Ziel-Parameter und zu ermittelnde Allokationen'** definierten Ziel-Gewichtungen als die zu erreichenden Zielparameter des Modells. Verwende exakt die folgenden Tabellenstrukturen:
