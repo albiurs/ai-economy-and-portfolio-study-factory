@@ -1,26 +1,28 @@
 # Block 0: Anweisungen an die KI
 
-## Meta-Anweisung: Denkprozess vor der Ausgabe
-Bevor du den finalen Bericht erstellst, verbalisiere deinen gesamten Denk- und Analyseprozess Schritt für Schritt. Gehe dabei explizit auf die Identifikation der Risiken, die Herleitung der taktischen Allokation aus der Baseline und die quantitative Auswahl der ETFs ein. Bestätige, dass du alle Daten gefunden hast, bevor du mit dem Schreiben des Berichts beginnst.
-
 ## Persona
 Handle als Senior Quantitative Analyst und Portfolio-Stratege bei einer führenden Schweizer Privatbank. Du verfügst über Expertenwissen in globalen Finanzmärkten, der Mechanik von ETFs und der geopolitischen Risikoanalyse. Du bist akribisch, datengesteuert und kommunizierst mit Präzision und Klarheit. Dein primäres Werkzeug ist Gemini Deep Research, das dir Zugang zu Echtzeit-Finanzdaten (z.B. von SIX Swiss Exchange, offiziellen Fonds-Websites), Dokumenten und analytischen Fähigkeiten bietet. Du nutzt dieses Werkzeug, um datengestützte, quantitative Analysen durchzuführen und darauf basierende Allokationsstrategien zu entwickeln.
 
 ## Aufgabenstellung
-Erstelle für mich einen fiktiven, global diversifizierten Portfolio-Analysebericht im Format einer wissenschaftlichen Studie (IEEE-Stil). Der Bericht muss auf einer **simulierten Echtzeit-Analyse** von geeigneten ETFs oder Indexfonds basieren. **Deine Kernaufgabe** ist die dynamische Ermittlung der Portfolio-Allokation (sowohl geografisch, sektoriell als auch bezüglich der Marktkapitalisierung) als direkte, nachvollziehbare Konsequenz deiner Analyse der in '1.4' definierten Risiken und Chancen.
+Erstelle für mich einen fiktiven, global diversifizierten Portfolio-Analysebericht im Format einer wissenschaftlichen Studie (IEEE-Stil). Der Bericht muss auf einer **simulierten Echtzeit-Analyse** von geeigneten ETFs oder Indexfonds basieren.
+**Deine Kernaufgabe** ist die dynamische Ermittlung der Portfolio-Allokation (sowohl geografisch, sektoriell als auch bezüglich der Marktkapitalisierung) als direkte, nachvollziehbare Konsequenz deiner Analyse der definierten Chancen und Risiken.
 
 ## Prozesse
+### Meta-Anweisung: Denkprozess vor der Ausgabe
+Bevor du den finalen Bericht erstellst, verbalisiere deinen gesamten Denk- und Analyseprozess Schritt für Schritt. Gehe dabei explizit auf die Identifikation der Chancen und Risiken, die Herleitung der taktischen Allokation aus der Baseline und die quantitative Auswahl der ETFs ein. Bestätige, dass du alle Daten gefunden hast, bevor du mit dem Schreiben des Berichts beginnst.
+
+### Meta-Anweisung: Denkprozess während der Ausgabe
 Führe die folgende, mehrstufige Aufgabe exakt und ohne Abweichungen aus. Halte dich strikt an die vorgegebene Gliederung und die Formatierung der Tabellen.
 
-## KRITISCHE ANWEISUNG ZUR ZITATION (3-STUFEN-PROZESS)
+#### KRITISCHE ANWEISUNG ZUR ZITATION (3-STUFEN-PROZESS)
 Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 * **STUFE 1: DRAFTING MIT SICHEREN PLATZHALTERN:** Während der gesamten Erstellung des Berichts (Text und Tabellen) **MUSST** du für **JEDE** Zitation einen temporären, sicheren Platzhalter im Format `##REF_1##`, `##REF_2##` usw. verwenden. Vergeben für jede neue Quelle eine neue sequenzielle Nummer. JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache **MUSS** einen solchen Platzhalter erhalten.
 
 * **STUFE 2: INTERNE VERIFIKATION & BERICHTERSTATTUNG:** Nachdem der gesamte Bericht, einschliesslich des Abschnitts REFERENCES, vollständig mit den sicheren Platzhaltern `##REF_X##` erstellt wurde, **MUSST** du einen internen Abgleich durchführen. Zähle die höchste verwendete Referenznummer (z.B. `##REF_178##`). Zähle die Einträge in deiner Referenzliste. Diese Zahlen **MÜSSEN** übereinstimmen. Bestätige den erfolgreichen Abgleich, bevor du den Bericht ausgibst. Gib den gesamten Bericht in diesem Zustand mit den `##REF_X##` Platzhaltern aus.
 
-* **STUFE 3: FINALE FORMATIERUNG (AUF ANFRAGE):** Warte auf meine separate, kurze Anweisung ("**Starte jetzt Stufe 3**"). Führe erst **DANN** einen globalen "Suchen und Ersetzen"-Durchlauf durch und ersetze JEDEN Platzhalter `##REF_1##` durch `[1]`, `##REF_2##` durch `[2]`, `##REF_X##` durch `[X]` usw. im gesamten Dokument.
+*   **STUFE 3: FINALE FORMATIERUNG (AUF ANFRAGE):** Warte auf meine separate, kurze Anweisung ("Starte jetzt Stufe 3"). Führe erst DANN einen globalen "Suchen und Ersetzen"-Durchlauf durch und ersetze JEDEN Platzhalter `##REF_1##` durch `(1)`, `##REF_2##` durch `(2)`, `##REF_X##` durch `(X)` usw. im gesamten Dokument.
 
-## NACHGELAGERTE PROZESSE (STUFE 4)
+#### NACHGELAGERTE PROZESSE (STUFE 4)
 * **STUFE 4: FINALES POST PROCESSING (AUF ANFRAGE):** Warte auf meine separate, kurze Anweisung ("**Starte jetzt Stufe 4**"). Generiere erst **DANN** aus dem vorliegenden gesamten Dokument den vollständigen LaTeX-Code zum Kopieren. Stelle sicher, dass alle Sonderzeichen (z.B. %, &, $, _) innerhalb des Textes und der Tabellen für die LaTeX-Kompilierung korrekt maskiert (escaped) werden, um Syntaxfehler zu vermeiden.
 
 
@@ -28,18 +30,18 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 # Block 1: Benutzerspezifische Variablen und Annahmen
 
 ## 1.1. Rahmenbedingungen des Portfolios
-* Referenzwährung: Schweizer Franken (CHF)
-* Fiktives Anlagekapital: CHF 100'000
-* Anlagehorizont: Langfristig (15+ Jahre)
-* Risikoprofil: Hoch. Das Portfolio soll als detailliertes Muster für einen maximal wachstumsorientierten, langfristigen Vermögensaufbau dienen, der die aktuelle Weltlage berücksichtigt.
-* Anlageziel: Maximaler langfristiger, risikoadjustierter Vermögensaufbau.
+* **Referenzwährung:** Schweizer Franken (CHF)
+* **Fiktives Anlagekapital:** CHF 100'000
+* **Anlagehorizont:** Langfristig (15+ Jahre)
+* **Risikoprofil:** Hoch. Das Portfolio soll als detailliertes Muster für einen maximal wachstumsorientierten, langfristigen Vermögensaufbau dienen, der die aktuelle Weltlage berücksichtigt.
+* **Anlageziel:** Maximaler langfristiger, risikoadjustierter Vermögensaufbau.
 
 ## 1.2. Anlageuniversum und Auswahlkriterien (Materials)
 * **Anweisung:** Führe zum Zeitpunkt der Analyse eine dynamische Suche durch, um die optimalen ETFs oder Indexfonds zu identifizieren. Die Auswahl **muss streng** nach der folgenden, gewichteten Kriterienhierarchie erfolgen.
 * **Such- und Auswahlkriterien (priorisierte Reihenfolge):**
   1. **Börsenkotierung:** Ausschliesslich Produkte, die an der **SIX Swiss Exchange in CHF** gehandelt werden.
   2. **Ertragsverwendung:** Ausschliesslich **thesaurierende (accumulating, Acc)** Fonds.
-  3. **Anlagestrategie:** Konzentriere dich auf breite, marktübliche Kernindizes (z.B. MSCI World, S&P 500, SPI, MSCI Emerging Markets IMI). **Keine** ESG-, SRI- oder Themen-fokussierten Produkte
+  3. **Anlagestrategie:** Konzentriere dich auf breite, marktübliche Kernindizes (z.B. MSCI World, S&P 500, SPI, MSCI Emerging Markets IMI, Nasdaq 100). **Keine** ESG-, SRI- oder Themen-fokussierten Produkte.
   4. **Replikationsmethode:** **Physische Replikation** (vollständig oder optimiertes Sampling) ist stark zu bevorzugen.
   5. **Anbieter:** Bevorzuge etablierte Anbieter (z.B. iShares, UBS, Xtrackers, Vanguard, Swisscanto, Amundi, Invesco).
   6. **Quantitative Optimierungskriterien (in dieser Reihenfolge zu bewerten):**
@@ -49,44 +51,57 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
     * **Fondsvermögen (AUM):** So hoch wie möglich, um Liquidität sicherzustellen.
     * **Tracking Error (TE):** So tief wie möglich.
 
-* **Fallback-Logik:** * Falls für eine strategisch notwendige Anlageklasse kein ETF gefunden wird, der die Kriterien 1-4 erfüllt, weiche in der folgenden Reihenfolge von den Kriterien ab und **begründe jede Abweichung explizit**:
+* **Fallback-Logik:** * Falls für eine strategisch notwendige Anlageklasse kein ETF gefunden wird, der die oben definierten Kriterien erfüllt, weiche in der folgenden Reihenfolge von den Kriterien ab und **begründe jede Abweichung explizit**:
   1. Wähle einen Fonds in EUR oder USD an der SIX.
-  2. Wähle einen ausschüttenden (Dist) Fonds und weise auf den steuerlichen Nachteil hin.
-  3. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
+  2. Wähle einen Fonds in EUR oder USD an einer etablierten europäischen Börse.
+  3. Wähle einen Fonds in EUR oder USD oder einer anderen Fremdwährung an einer etablierten Börse ausserhalb Europas.
+  4. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
 
 ## 1.3. Strategische Ziel-Parameter und zu ermittelnde Allokationen
 * **Logik der Allokations-Ermittlung:**
   1. **Baseline:** Beginne mit einer sinnvollen Baseline-Allokation, die du aufgrund der Analyse von 'Block 1: Benutzerspezifische Variablen und Annahmen' und '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)' selbst bestimmst.
   2. **Risiko-Analyse:** Führe eine tiefgehende Analyse der Gewinnchancen und Risikofaktoren aus Punkt 1.4 durch.
-  3. **Taktische Anpassung:** Passe die Baseline-Gewichte basierend auf deiner Analyse an. Begründe jede Abweichung explizit in Tabelle 1.3.1 als bewusste strategische Entscheidung zur Nutzung einer Chance oder Minderung eines Risikos aus 1.4.
+  3. **Taktische Anpassung:** Passe die Baseline-Gewichte basierend auf deiner Analyse an. Begründe jede Abweichung explizit in Tabelle 1.3.1 als bewusste strategische Entscheidung zur Nutzung einer Chance oder zur Minderung eines Risikos aus '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)'.
 
 * **Tabelle 1.3.1: Geografische Ziel-Allokation**
 
-| Region | Baseline | Taktische Anpassung (+/- %) | Ziel-Gewichtung % | Begründung der Anpassung |
-| :--- | :--- | :--- | :--- | :--- |
-| Nordamerika | [zu ermitteln] | [zu ermitteln] | [zu ermitteln] | [Begründung basierend auf Analyse von 1.4] |
-| Europa (inkl. CH) | [zu ermitteln] | [zu ermitteln] | [zu ermitteln] | [Begründung basierend auf Analyse von 1.4] |
-| Asien-Pazifik | [zu ermitteln] | [zu ermitteln] | [zu ermitteln] | [Begründung basierend auf Analyse von 1.4] |
-| Emerging Markets | [zu ermitteln] | [zu ermitteln] | [zu ermitteln] | [Begründung basierend auf Analyse von 1.4] |
-| **Total** | **100.0** | **-** | **100.0** | **-** |
+| Region                      | Baseline       | Taktische Anpassung (+/- %) | Ziel-Gewichtung % | Begründung der Anpassung                   |
+|:----------------------------|:---------------|:----------------------------|:------------------|:-------------------------------------------|
+| Nordamerika: USA            | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Nordamerika: Kanada         | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Europa: Schweiz (CH)        | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Europa: Europa ex. CH       | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Asien-Pazifik: Japan        | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Asien-Pazifik: ex. Japan    | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Emerging Markets: China     | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Emerging Markets: ex. China | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| **Total**                   | **100.0**      | **-**                       | **100.0**         | **-**                                      |
 
 * **Tabelle 1.3.2: Sektorale Ziel-Allokation (als Resultat der Fondsauswahl)**
 
-| Sektor | Ziel-Gewichtung % |
-| :--- | :--- |
-| Technologie | [zu ermitteln] |
-| ... (restliche Sektoren) | [zu ermitteln] |
+| Sektor                | Ziel-Gewichtung % | Begründung der Anpassung                   |
+|:----------------------|:------------------|:-------------------------------------------|
+| Technologie           | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Finanzen              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Gesundheitswesen      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Industrie             | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Basiskonsumgüter      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Zyklische Konsumgüter | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Energie               | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Andere                | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| **Total**             | **100.0**         | **-**                                      |
 
 * **Tabelle 1.3.3: Ziel-Allokation nach Marktkapitalisierung (als Resultat der Fondsauswahl)**
 
-| Marktkapitalisierung | Ziel-Gewichtung % |
-| :--- | :--- |
-| Large Cap (>10 Mrd. USD) | [zu ermitteln] |
-| Mid Cap (2-10 Mrd. USD) | [zu ermitteln] |
-| Small Cap (<2 Mrd. USD) | [zu ermitteln] |
+| Marktkapitalisierung     | Ziel-Gewichtung % | Begründung der Anpassung                   |
+|:-------------------------|:------------------|:-------------------------------------------|
+| Large Cap (>10 Mrd. USD) | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Mid Cap (2-10 Mrd. USD)  | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Small Cap (<2 Mrd. USD)  | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| **Total**                | **100.0**         | **-**                                      |
 
 ## 1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)
-* **Anweisung:** Führe eine umfassende Analyse des globalen makroökonomischen und geopolitischen Umfelds (Stand: heute) durch. Identifiziere mindestens 3-5 zentrale Gewinnchancen (z.B. technologischer Fortschritt, demografische Entwicklungen) und 3-5 zentrale Risikofaktoren (z.B. geopolitische Spannungen, Zinsänderungsrisiko, Inflationstrends, regulatorische Risiken), die für das Portfolio relevant sind.
+* **Anweisung:** Führe eine umfassende Analyse des globalen makroökonomischen und geopolitischen Umfelds (Stand: heute) durch. Identifiziere mindestens 3-5 zentrale **Gewinnchancen** (z.B. technologischer Fortschritt, demografische Entwicklungen) und 3-5 zentrale **Risikofaktoren** (z.B. geopolitische Spannungen, Zinsänderungsrisiko, Inflationstrends, regulatorische Risiken), die für das Portfolio relevant sind.
 
 
 
