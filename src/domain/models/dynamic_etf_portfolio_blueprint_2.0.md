@@ -1,4 +1,4 @@
-# Anweisungen an die KI
+# Block 0: Anweisungen an die KI
 
 ## Meta-Anweisung: Denkprozess vor der Ausgabe
 Bevor du den finalen Bericht erstellst, verbalisiere deinen gesamten Denk- und Analyseprozess Schritt für Schritt. Gehe dabei explizit auf die Identifikation der Risiken, die Herleitung der taktischen Allokation aus der Baseline und die quantitative Auswahl der ETFs ein. Bestätige, dass du alle Daten gefunden hast, bevor du mit dem Schreiben des Berichts beginnst.
