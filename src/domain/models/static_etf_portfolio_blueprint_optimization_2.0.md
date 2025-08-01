@@ -58,21 +58,21 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 | Region                      | Ziel-Gewichtung % |
 |:----------------------------|:------------------|
-| Nordamerika: USA            | 38%               |
+| Nordamerika: USA            | 48%               |
 | Nordamerika: Kanada         | 2%                |
-| Europa: Schweiz (CH)        | 5%                |
-| Europa: Europa ex. CH       | 25%               |
+| Europa: Schweiz (CH)        | 20%               |
+| Europa: Europa ex. CH       | 5%                |
 | Asien-Pazifik: Japan        | 5%                |
 | Asien-Pazifik: ex. Japan    | 5%                |
-| Emerging Markets: China     | 6%                |
-| Emerging Markets: ex. China | 14%               |
+| Emerging Markets: China     | 0%                |
+| Emerging Markets: ex. China | 15%               |
 | **Total**                   | **100.0**         |
 
 * **Tabelle 1.3.2: Sektorale Ziel-Allokation (als Resultat der Fondsauswahl)**
 
 | Sektor                 | Ziel-Gewichtung % |
 |:-----------------------|:------------------|
-| Technologie            | 27%               |
+| Technologie            | 33%                |
 | Finanzen               | [zu ermitteln]    |
 | Gesundheitswesen       | [zu ermitteln]    |
 | Industrie              | [zu ermitteln]    |
@@ -86,7 +86,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 | Marktkapitalisierung     | Ziel-Gewichtung % |
 |:-------------------------|:------------------|
-| Large Cap (>10 Mrd. USD) | 75%               |
+| Large Cap (>10 Mrd. USD) | 80%               |
 | Mid Cap (2-10 Mrd. USD)  | [zu ermitteln]    |
 | Small Cap (<2 Mrd. USD)  | [zu ermitteln]    |
 | **Total**                | **100.0**         |
