@@ -60,7 +60,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 ## 1.3. Strategische Ziel-Parameter und zu ermittelnde Allokationen
 * **Logik der Allokations-Ermittlung:**
   1. **Baseline:** Beginne mit einer sinnvollen Baseline-Allokation, die du aufgrund der Analyse von 'Block 1: Benutzerspezifische Variablen und Annahmen' und '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)' selbst bestimmst.
-  2. **Risiko-Analyse:** Führe eine tiefgehende Analyse der Gewinnchancen und Risikofaktoren aus Punkt 1.4 durch.
+  2. **Risiko-Analyse:** Führe eine tiefgehende Analyse der Gewinnchancen und Risikofaktoren aus Punkt '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)' durch.
   3. **Taktische Anpassung:** Passe die Baseline-Gewichte basierend auf deiner Analyse an. Begründe jede Abweichung explizit in Tabelle 1.3.1 als bewusste strategische Entscheidung zur Nutzung einer Chance oder zur Minderung eines Risikos aus '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)'.
 
 * **Tabelle 1.3.1: Geografische Ziel-Allokation**
@@ -107,12 +107,12 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 # Block 2: ALGORITHMISCHER WORKFLOW ZUR BERICHTERSTELLUNG (STUFE 1 & 2)
 
-## Executive Summary
+## Titel: `Executive Summary`
 Erstelle zu Beginn eine kurze, prägnante Zusammenfassung als eigenständige Übersicht für einen zeitkritischen Entscheidungsträger. Nenne das Anlageziel, die in Abschnitt 'III. RESULTS' und 'IV. DISCUSSION' präsentierte und begründete prozentuale Allokation zwischen den ETFs und die wichtigsten quantitativen Merkmale des resultierenden Portfolios.
 
 JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
 
-## I. INTRODUCTION
+## Titel: `I. INTRODUCTION`
 Leite die Studie ein, indem du die wissenschaftlichen Hintergründe der Anlagetheorie, Diversifikation (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) erläuterst. Beschreibe die Herausforderungen betreffend die globalen makroökonomischen und geopolitischen Zusammenhänge sowie dessen Wichtigkeit für die Zusammenstellung eines Wertschriftenportfolios.
 
 JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
@@ -120,98 +120,144 @@ JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit ein
 Erläutere zum Schluss der Einleitung das fehlende Wissen betreffend die aktuelle globale makroökonomische und geopolitische Situation. 
 Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und geopolitische Situation zu analysieren und aufgrund der Basis der Resultate ein (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) diversifiziertes Musterportfolio zusammenzustellen. 
 
-## II. METHODS
-
+## Titel: `II. METHODS`
 Erläutere die in **Block 1** unter **'1.1. Rahmenbedingungen des Portfolios'** festgelegten Parameter (Anlageziel, Risikoprofil, Horizont etc.) als Grundlage für die nachfolgende Analyse.
 
-* **A. Materials and Selection Criteria:** Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien aus Abschnitt '1.2.'. Erwähne die Fallback-Logik.
+Beschreibe die Methodik, die zur Erstellung und Analyse des Portfolios verwendet wird.
+### Titel: `A. Materials and Selection Criteria`
+* Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien aus Abschnitt '1.2. Ausgewählte Anlageinstrumente'.
 
-* **B. Target Allocation Strategy:** Präsentiere die in Abschnitt '1.3.' hergeleitete Ziel-Allokation und die dazugehörige Begründungstabelle '1.3.1'.
+### Titel: `B. Target Allocation Strategy`
+Präsentiere die in **Block 1** unter **'1.3. Strategische Zielparameter und zu ermittelnde Allokationen'** definierten Zielallokationen als die zu erreichenden Zielparameter des Modells. Verwende exakt die folgenden Tabellenstrukturen:
 
-* **C. Analytical Process:** Erkläre die Methodik zur Auswahl der ETFs. Detailliere hier die Methodik zur Ermittlung von TD und TE:
+*   **Tabelle II-1: Geografische Zielallokation**
 
-* **Tracking-Differenz (TD):** Die Angabe der TD ist für 1, 3 und 5 Jahre (p.a., falls möglich) zwingend. **Anweisung zur Berechnung:** Greife auf das offizielle, aktuellste Factsheet des Fonds zu. Berechne die TD mit der Formel: $TD = \text{Fonds-Gesamtrendite in \%} - \text{Benchmark-Gesamtrendite in \%}$. **Stelle sicher, dass die Rendite-Zeitraeume exakt übereinstimmen.** Falls für einen Zeitraum keine Daten verfügbar sind, markiere dies mit "n.v." (nicht verfügbar).
+| Region | Ziel-Gewichtung % |
+| :--- | :--- |
+  
+* **Tabelle II-2: Sektorale Ziel-Allokation**
 
-* **Tracking Error (TE):** Gib den publizierten TE für 1, 3 und 5 Jahre an. Falls nicht publiziert, gib "n.v." an. **Berechne den TE nicht selbst.**
+| Sektor | Ziel-Gewichtung % |
+| :--- | :--- |
+  
+* **Tabelle II-3: Ziel-Allokation nach Marktkapitalisierung**
+
+| Marktkapitalisierung | Ziel-Gewichtung % |
+| :--- | :--- |
+
+### Titel: `C. Analytical Process`
+Beschreibe den analytischen Prozess. Erkläre, dass eine vergleichende Analyse der Instrumente durchgeführt wird, um eine optimale Allokation zur Erreichung der Zielparameter zu bestimmen. Detailliere hier die Methodik zur Ermittlung von Tracking-Differenz (TD) und Tracking Error (TE) wie folgt:
+
+* **Tracking-Differenz (TD):** Die Angabe der TD ist für 1, 3, 5 und 10 Jahre (p.a., falls möglich) zwingend. **Anweisung zur Berechnung:** Greife auf das offizielle, aktuellste Factsheet des Fonds zu. Berechne die TD mit der Formel: $TD = \text{Fonds-Gesamtrendite in \%} - \text{Benchmark-Gesamtrendite in \%}$. **Stelle sicher, dass die Rendite-Zeitraeume exakt übereinstimmen.** Falls für einen Zeitraum keine Daten verfügbar sind, markiere dies mit "n.v." (nicht verfügbar).
+
+* **Tracking Error (TE):** Gib für die Zeiträume 1, 3, 5 und 10 Jahre den publizierten TE an. Falls der TE für einen bestimmten Zeitraum nicht publiziert ist, gib "n.v." (nicht verfügbar) an. **Berechne den TE nicht selbst.**
 
 
-## III. RESULTS
+## Titel: `III. RESULTS`
+Präsentiere die Ergebnisse der Analyse und Portfolio-Konstruktion in der folgenden logischen Reihenfolge.
 
-### A. Comparative Analysis and ETF Selection
-Führe eine erschöpfende Recherche durch und befülle die folgende Master-Tabelle. Jede Zelle muss mit den aktuellsten verfügbaren Daten befüllt und mit einem `##REF_X##`-Platzhalter zitiert werden.
+### Titel: `A. Comparative Analysis and ETF Selection`
+Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung einer erschöpfenden Recherche zu jedem in Abschnitt '1.2. Anlageuniversum und Auswahlkriterien (Materials)' spezifizierten ETF und die vollständige Befüllung der folgenden Master-Datentabelle. Diese Tabelle dient als alleinige Quelle der Wahrheit ('Single Source of Truth') für alle nachfolgenden Berechnungen und Entscheidungen. Jede einzelne Zelle muss mit den aktuellsten verfügbaren Daten befüllt und mit einem `##REF_X##`-Platzhalter zitiert werden.
+  
+* **Tabelle III-1: ETF-Vergleich**
 
-* **Tabelle III-1: ETF-Vergleichsmatrix**
+| Fondsname     | Anbieter  | ISIN      | Ref.Index | Repl.-Methode | Fd.-Währung | Thes. (j/n) | TER % p.a. | AUM       | Ant. EM % | TD 1J %   | TD 3J %   | TD 5J %   | TD 10J %  | TE 1J %   | TE 3J %   | TE 5J %   | TE 10J %  | Hand.-Platz | Kurs      |
+|:--------------|:----------|:----------|:----------|:--------------|:------------|:------------|:-----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:------------|:----------|
+| [Fondsname 1] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | ##REF_X##   | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | ##REF_X## |
+| [Fondsname 2] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | ##REF_X##   | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | ##REF_X## |
+| ...           |           |           |           |               |             |             |            |           |           |           |           |           |           |           |           |           |           |             |           |
 
-| Kategorie | Fondsname | ISIN | Anbieter | Repl.-Methode | Fd.-Währung | TER % p.a. | AUM (Mio CHF) | TD 1J % | TD 3J % p.a. | TD 5J % p.a. | TE 3J % | Auswahl (Ja/Nein) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Welt** | [Fondsname 1] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | Nein |
-| | [Fondsname 2] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | **Ja** |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+### Titel: `B. Final Portfolio Composition`
+Zeige die finale Umsetzung des Portfolios in der folgenden Tabelle:
 
-* **Begründung der Auswahl:** Begründe **unmittelbar unter der Tabelle** für jede Kategorie die Auswahl des "Gewinner"-ETFs. Beziehe dich dabei explizit auf die Daten in der Tabelle und die priorisierten Kriterien aus Abschnitt 1.2.
+*   **Tabelle III-2: Finale Portfolio-Zusammenstellung**
 
-### B. Final Portfolio Composition
-* **Tabelle III-2: Finale Portfolio-Zusammenstellung**
+| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Zielallok. % | Kurs   | Anz. Anteile zu kaufen | Effekt. Allok. % | Betrag in CHF |
+|:-----------|:--------|:-------|:------------|:------------|:------------|:------|:-------------|:-------|:-----------------------|:-----------------|:--------------|
+| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** | **100.0**    | **-**  | **-**                  |                  |               |
 
-| Fd-Name | ISIN | Hand.-Platz | Zielallok. % | Kurs (CHF) | Anz. Anteile | Invest.-Betrag (CHF) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Fondsname 2] | ##REF_X## | SIX | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## |
-| ... | ##REF_X## | SIX | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## |
-| **Total** | | | **100.0** | | | **ca. 100'000**|
+* **Begründung der Auswahl:** Liefere eine detaillierte Begründung für die spezifischen ETFs, die zur Erfüllung der Allokationen aus 'B. Target Allocation Strategy' ausgewählt wurden. Für Regionen, Sektoren oder bei der Marktkapitalisierung, in denen mehrere ETFs zur Verfügung stehen (z.B. MSCI Japan, MSCI World), lege explizit dar, warum ein ETF gegenüber den anderen bevorzugt wurde. Begründe ausserdem die gewählte prozentuale Aufteilung zwischen den ausgewählten ETFs, um die Zielallokationen bestmöglich zu approximieren.
 
-### C. Aggregated Portfolio Characteristics
-
+### Titel: `C. Aggregated Portfolio Characteristics`
+Präsentiere die aggregierten, konsolidierten Eigenschaften des finalen Portfolios in den folgenden Tabellen und vergleiche sie mit den Zielvorgaben aus Abschnitt II.B.
+  
 * **Tabelle III-3: Effektive Geografische Diversifikation**
 
-* **Tabelle III-4: Effektive Sektorale Diversifikation**
-
-* **Wichtige Anweisung für Tabelle III-5:** Diese Tabelle erfordert eine 'Look-Through'-Analyse. Du **musst** die Top-Positionen *jedes einzelnen ausgewählten ETFs* abrufen, deren jeweiliges Gewicht *innerhalb des Gesamtportfolios* berechnen (Formel: `Gewicht_final = Gewicht_pos_in_ETF * Allokation_etf_in_Portfolio`) und die Ergebnisse aggregieren. Zeige die 15 grössten, einzigartigen Unternehmenspositionen im finalen Portfolio.
-
-* **Tabelle III-5: Look-Through-Analyse der Top-15-Positionen**
-
-| Nr. | Unternehmen | Land | Sektor | Gewicht im Portfolio % |
-| :--- | :--- | :--- | :--- | :--- |
-
-
-## IV. DISCUSSION
-Interpretiere die Ergebnisse aus Abschnitt III im Kontext der Risikofaktoren aus '1.4.'. Belege jede Aussage mit `##REF_X##`.
-
-### A. Analysis of Defined Risks
-Analysiere jeden in 1.4 identifizierten Risikofaktor.
-
-### B. Additional Risks Identified
-Diskutiere weitere Risiken (z.B. hohe Konzentration in Top-15-Positionen, Währungsrisiko).
-
-### C. Risk Dashboard Summary
-* **Tabelle IV-1: Quantitatives Risiko-Dashboard**
-
-| Risikofaktor | Quantitative Portfolio-Exposure (%) | Qualitative Begründung der Exposure | Bewerteter Einfluss (Tief/Mittel/Hoch) |
+| Region | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
 | :--- | :--- | :--- | :--- |
-| Währungsrisiko (% non-CHF) | ##REF_X## | ##REF_X## | ##REF_X## |
-| Geopolitik (z.B. % China+Taiwan) | ##REF_X## | ##REF_X## | ##REF_X## |
-| Zinsrisiko (% zinssensitive Sektoren) | ##REF_X## | ##REF_X## | ##REF_X## |
-| Konzentration (Top-15-Gewicht) | ##REF_X## | ##REF_X## | ##REF_X## |
-| Technologie-Konzentration (z.B. % "Magnificent 7") | ##REF_X## | ##REF_X## | ##REF_X## |
+
+*   **Tabelle III-4: Effektive Sektorale Diversifikation**
+
+| Sektor | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
+| :--- | :--- | :--- | :--- |
+
+*   **Tabelle III-5: Effektive Diversifikation nach Marktkapitalisierung**
+
+| Marktkapitalisierung | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
+| :--- | :--- | :--- | :--- |
+
+### Titel: `D. Look-Through Analysis of Individual Holdings`
+Führe für jedes einzelne Produkt aus 'Tabelle III-2: Finale Portfolio-Zusammenstellung' eine detaillierte "Look-Through"-Analyse durch. Nummeriere die Analyse für jeden ETF (E.1, E.2,...) und die dazugehörigen Tabellen (Tabelle III-6, Tabelle III-7,...) konsistent.
 
 
-## V. CONCLUSION
-Fasse die wichtigsten Erkenntnisse zusammen und bewerte, inwieweit das Portfolio die Ziele aus der Einleitung erreicht.
+## Titel: `IV. DISCUSSION`
+Interpretiere die in Abschnitt 'III. RESULTS' präsentierten Ergebnisse im Kontext der in 'Block 1: Benutzerspezifische Variablen und Annahmen' unter '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)' definierten Chancen und Risiken. Jede Aussage und jeder Fakt muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
+
+###  Titel: `A. Analysis of Defined Risks`
+Führe für jeden in Abschnitt '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)' genannten Risikofaktor eine detaillierte Analyse durch. Strukturiere die Analyse für jeden Faktor wie folgt:
+    1.  **Recherche-Zusammenfassung:** Fasse die aktuelle Lage zum jeweiligen Risikofaktor kurz zusammen und belege alle Fakten mit sicheren Zitations-Platzhaltern `##REF_X##`.
+    2.  **Quantitative Exposition:** Quantifiziere die Exposition des Portfolios gegenüber dem Risiko, indem du die effektiven Gewichte aus den Tabellen 'Tabelle III-3: Effektive Geografische Diversifikation', 'Tabelle III-4: Effektive Sektorale Diversifikation' und 'Tabelle III-5: Effektive Diversifikation nach Marktkapitalisierung' zitierst und interpretierst.
+    3.  **Qualitative Beurteilung:** Beurteile den potenziellen Einfluss des Risikos auf das Portfolio, basierend auf recherchierten Fakten `##REF_X##`.
+    4.  **Fazit für das Portfolio:** Begründe, warum die gewählte Portfoliostruktur angesichts dieses Risikos und der quantifizierten Exposition als robust oder anfällig eingeschätzt wird.
+
+###  Titel: `B. Risk Dashboard`
+Fasse die Ergebnisse in einer zusammen:
+
+*   **Tabelle IV-1: Quantitatives Risiko-Dashboard**
+
+| Risikofaktor | Quantitative Portfolio-Exposure % | Art des Risikos / der Anfälligkeit | Bewerteter Einfluss (Tief/Mittel/Hoch) |
+|:-------------|:----------------------------------|:-----------------------------------|:---------------------------------------|
+
+###  Titel: `C. Additional Risks Identified Through Analysis`
+Untersuche kritisch die aggregierten Portfolioeigenschaften aus Abschnitt 'III. RESULTS'. Identifiziere und diskutiere alle weiteren signifikanten Konzentrationsrisiken, die sich ergeben haben (z.B. übermässige Exposition gegenüber einem einzelnen Unternehmen, einem Sub-Sektor, einem spezifischen Währungsblock oder einem Segment der Marktkapitalisierung). Begründe, warum diese Konzentration ein bemerkenswertes Risiko darstellt.
+
+###  Titel: `D. Analysis of Defined Chances`
+Führe für jede in Abschnitt '1.4. Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)' genannte Chance eine detaillierte Analyse durch. Strukturiere die Analyse für jeden Faktor wie folgt:
+    1.  **Recherche-Zusammenfassung:** Fasse die aktuelle Lage zur jeweiligen Chance kurz zusammen und belege alle Fakten mit sicheren Zitations-Platzhaltern `##REF_X##`.
+    2.  **Quantitative Exposition:** Quantifiziere die Exposition des Portfolios gegenüber der Chance, indem du die effektiven Gewichte aus den Tabellen 'Tabelle III-3: Effektive Geografische Diversifikation', 'Tabelle III-4: Effektive Sektorale Diversifikation' und 'Tabelle III-5: Effektive Diversifikation nach Marktkapitalisierung' zitierst und interpretierst.
+    3.  **Qualitative Beurteilung:** Beurteile den potenziellen Einfluss jeder Chance auf das Portfolio, basierend auf recherchierten Fakten `##REF_X##`.
+    4.  **Fazit für das Portfolio:** Begründe, warum die gewählte Portfoliostruktur angesichts dieser Chance und der quantifizierten Exposition als robust oder anfällig eingeschätzt wird.
+
+###  Titel: `E. Chance Dashboard`
+Fasse die Ergebnisse in einer zusammen:
+
+*   **Tabelle IV-2: Quantitatives Gewinnchancen-Dashboard**
+
+| Gewinnchance | Quantitative Portfolio-Exposure % | Art der Gewinnchance / Wachstumschance | Bewerteter Einfluss (Tief/Mittel/Hoch) |
+|:-------------|:----------------------------------|:---------------------------------------|:---------------------------------------|
+
+###  Titel: `F. Additional Chance Identified Through Analysis`
+Untersuche kritisch die aggregierten Portfolioeigenschaften aus Abschnitt 'III. RESULTS'. Identifiziere und diskutiere alle weiteren signifikanten Konzentrationschancen, die sich ergeben haben (z.B. übermässige Exposition gegenüber einem einzelnen Unternehmen, einem Sub-Sektor, einem spezifischen Währungsblock oder einem Segment der Marktkapitalisierung). Begründe, warum diese Konzentration eine bemerkenswerte Gewinnchance bzw. Wachstumschance darstellt.
 
 
-## ACKNOWLEDGEMENTS
+## Titel: `V. CONCLUSION`
+Fasse die wichtigsten Erkenntnisse der Studie zusammen. Gib eine abschliessende Bewertung, inwieweit das konstruierte Portfolio die in der Einleitung genannten Ziele unter Berücksichtigung der diskutierten Risiken erreicht.
+
+
+## Titel: `ACKNOWLEDGEMENTS`
 Füge einen Platzhalter für Danksagungen ein.
 
 
-## REFERENCES
-Erstelle eine nummerierte Liste aller zitierten Quellen (`##REF_X##`). Die Liste muss numerisch nach der Reihenfolge des Erscheinens im Text geordnet sein. Formatiere jeden Eintrag strikt nach dem IEEE Documentation Style.
+## Titel: `REFERENCES`
+Erstelle eine nummerierte Liste aller zitierten Quellen, die durch die `##REF_X##` Platzhalter im Text repräsentiert werden. Die Liste muss numerisch nach der Reihenfolge des Erscheinens im Text geordnet sein (NICHT alphabetisch). Stelle sicher, dass die Liste VOLLSTÄNDIG ist und für JEDEN `##REF_X##` Platzhalter im Text ein entsprechender Eintrag existiert. Formatiere jeden Eintrag strikt nach dem IEEE Documentation Style, unter korrekter Identifizierung des Quellentyps (z.B. Online-Artikel, technischer Bericht, Website) und Anwendung des entsprechenden Formats für Autoren, Titel, Daten und URLs.
 
 
-## APPENDIX
-* **A. Table of Tables:** Liste aller Tabellen.
+## Titel: `APPENDIX`
+*   **A. Table of Tables:** Erstelle eine Liste aller Tabellen im Bericht mit ihrer Nummer und ihrem vollständigen Titel.
+*   **B. List of Abbreviations:** Erstelle eine Liste aller im Bericht verwendeten Abkürzungen (ETF, AUM, TER, TD, TE, etc.) und deren vollständige Bedeutung.
 
-* **B. List of Abbreviations:** Liste aller Abkürzungen (ETF, AUM, TER, TD, TE, etc.).
 
 
-## DISCLAIMER
-Beende deine Antwort zwingend mit dem folgenden, exakt formulierten Disclaimer:
-*Diese Studie ist weder eine persönliche Anlageberatung noch eine Aufforderung oder Empfehlung zum Kauf oder Verkauf von Finanzinstrumenten. Die hier dargestellten Informationen und Berechnungen basieren auf öffentlich zugänglichen Daten, deren Genauigkeit und Aktualität nicht garantiert werden kann. Jede Anlageentscheidung birgt Risiken, einschliesslich des potenziellen Verlusts des eingesetzten Kapitals. Vor jeder Investition sollte eine individuelle Beratung durch einen qualifizierten Finanzexperten eingeholt werden.*
+## Titel: `DISCLAIMER`
+Beende deine Antwort zwingend mit dem folgenden, exakt formulierten Disclaimer.
+* Diese Studie ist weder eine persönliche Anlageberatung noch eine Aufforderung oder Empfehlung zum Kauf oder Verkauf von Finanzinstrumenten. Die hier dargestellten Informationen und Berechnungen basieren auf öffentlich zugänglichen Daten, deren Genauigkeit und Aktualität nicht garantiert werden kann. Jede Anlageentscheidung birgt Risiken, einschliesslich des potenziellen Verlusts des eingesetzten Kapitals. Vor jeder Investition sollte eine individuelle Beratung durch einen qualifizierten Finanzexperten eingeholt werden.
