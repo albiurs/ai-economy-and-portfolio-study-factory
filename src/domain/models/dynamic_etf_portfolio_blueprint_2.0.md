@@ -39,23 +39,22 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 ## 1.2. Anlageuniversum und Auswahlkriterien (Materials)
 * **Anweisung:** Führe zum Zeitpunkt der Analyse eine dynamische Suche durch, um die optimalen ETFs oder Indexfonds zu identifizieren. Die Auswahl **muss streng** nach der folgenden, gewichteten Kriterienhierarchie erfolgen.
 * **Such- und Auswahlkriterien (priorisierte Reihenfolge):**
-  1. **Börsenkotierung:** Ausschliesslich Produkte, die an der **SIX Swiss Exchange in CHF** gehandelt werden.
+  1. **Börsenkotierung:** Ausschliesslich Produkte, die an der **SIX Swiss Exchange** und wenn möglich in CHF (oder alternativ in einer Fremdwährung) gehandelt werden.
   2. **Ertragsverwendung:** Ausschliesslich **thesaurierende (accumulating, Acc)** Fonds.
-  3. **Anlagestrategie:** Konzentriere dich auf breite, marktübliche Kernindizes (z.B. MSCI World, S&P 500, SPI, MSCI Emerging Markets IMI, Nasdaq 100). **Keine** ESG-, SRI- oder Themen-fokussierten Produkte.
+  3. **Anlagestrategie:** Konzentriere dich auf breite, marktübliche Kernindizes (z.B. MSCI World, S&P 500, SPI, MSCI Emerging Markets IMI, Nasdaq 100). **Keine** ESG-, oder SRI-Produkte.
   4. **Replikationsmethode:** **Physische Replikation** (vollständig oder optimiertes Sampling) ist stark zu bevorzugen.
   5. **Anbieter:** Bevorzuge etablierte Anbieter (z.B. iShares, UBS, Xtrackers, Vanguard, Swisscanto, Amundi, Invesco).
   6. **Quantitative Optimierungskriterien (in dieser Reihenfolge zu bewerten):**
+     * **Tracking-Differenz (TD):** Kritischstes Qualitätsmerkmal. Wähle den Fonds mit der geringsten negativen bzw. höchsten positiven TD über 1, 3, 5 und 10 Jahre.
+     * **Total Expense Ratio (TER):** So tief wie möglich, als sekundäres Kriterium zur TD.
+     * **Fondsvermögen (AUM):** So hoch wie möglich, um Liquidität sicherzustellen.
+     * **Tracking Error (TE):** So tief wie möglich.
 
-* **Tracking-Differenz (TD):** Kritischstes Qualitätsmerkmal. Wähle den Fonds mit der geringsten negativen bzw. höchsten positiven TD über 1, 3 und 5 Jahre.
-    * **Total Expense Ratio (TER):** So tief wie möglich, als sekundäres Kriterium zur TD.
-    * **Fondsvermögen (AUM):** So hoch wie möglich, um Liquidität sicherzustellen.
-    * **Tracking Error (TE):** So tief wie möglich.
-
-* **Fallback-Logik:** * Falls für eine strategisch notwendige Anlageklasse kein ETF gefunden wird, der die oben definierten Kriterien erfüllt, weiche in der folgenden Reihenfolge von den Kriterien ab und **begründe jede Abweichung explizit**:
-  1. Wähle einen Fonds in EUR oder USD an der SIX.
-  2. Wähle einen Fonds in EUR oder USD an einer etablierten europäischen Börse.
-  3. Wähle einen Fonds in EUR oder USD oder einer anderen Fremdwährung an einer etablierten Börse ausserhalb Europas.
-  4. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
+  7. **Fallback-Logik:** * Falls für eine strategisch notwendige Anlageklasse kein ETF gefunden wird, der die oben definierten Kriterien erfüllt, weiche in der folgenden Reihenfolge von den Kriterien ab und **begründe jede Abweichung explizit**:
+     1. Wähle einen Fonds in EUR oder USD an der SIX.
+     2. Wähle einen Fonds in EUR oder USD an einer etablierten europäischen Börse.
+     3. Wähle einen Fonds in EUR oder USD oder einer anderen Fremdwährung an einer etablierten Börse ausserhalb Europas.
+     4. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
 
 ## 1.3. Strategische Ziel-Parameter und zu ermittelnde Allokationen
 * **Logik der Allokations-Ermittlung:**

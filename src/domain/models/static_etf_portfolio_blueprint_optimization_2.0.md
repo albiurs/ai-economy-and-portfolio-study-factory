@@ -39,8 +39,10 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 ## 1.2. Anlageuniversum und Auswahlkriterien (Materials)
   * iShares Core MSCI World UCITS ETF (Acc) - IE00B4L5Y983 - SWDA - SIX Swiss Exchange/USD
   * iShares MSCI World Small Cap UCITS ETF - IE00BF4RFH31 - IUSN - Xetra/EUR
+  * iShares Core S&P 500 UCITS ETF (Acc) - IE00B5BMR087 - CSSPX - SIX Swiss Exchange/USD
   * iShares Nasdaq 100 UCITS ETF (Acc) - IE00B53SZB19 - CSNDX - SIX Swiss Exchange/USD
   * iShares MSCI Canada UCITS ETF (Acc) - IE00B52SF786 - CSCA - SIX Swiss Exchange/CAD
+  * iShares Core MSCI Europe UCITS ETF - IE0008F9FCT2 - IEUC - SIX Swiss Exchange/CHF
   * Xtrackers MSCI Europe UCITS ETF 1C - LU0274209237 - XMEU - SIX Swiss Exchange/CHF
   * UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc - LU0977261329 - SW2CHB - SIX Swiss Exchange/CHF
   * UBS ETF (CH) - SPI (CHF) A-acc - CH0131872431 - SPICHA - SIX Swiss Exchange/CHF
@@ -64,9 +66,9 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 | Nordamerika: Kanada                | 2%                |
 | Europa: Schweiz (CH)               | 15%               |
 | Europa: Europa ex. CH              | 5%                |
-| Asien-Pazifik: Japan               | 5%                |
-| Asien-Pazifik: ex. Japan           | 0%                |
-| Emerging Markets: China (A-Aktien) | 10%               |
+| Asien-Pazifik: Japan               | 3%                |
+| Asien-Pazifik: ex. Japan           | 2%                |
+| Emerging Markets: China (A-Aktien) | 0%                |
 | Emerging Markets: ex. China        | 15%               |
 | **Total**                          | **100.0**         |
 
@@ -81,7 +83,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 | Basiskonsumgüter      | [zu ermitteln]    |
 | Zyklische Konsumgüter | [zu ermitteln]    |
 | Energie               | [zu ermitteln]    |
-| Edelmetalle: Gold     | 5%                |
+| Edelmetalle: Gold     | 10%               |
 | Andere                | [zu ermitteln]    |
 | **Total**             | **100.0**         |
 
@@ -89,7 +91,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 | Marktkapitalisierung     | Ziel-Gewichtung % |
 |:-------------------------|:------------------|
-| Large Cap (>10 Mrd. USD) | 80%               |
+| Large Cap (>10 Mrd. USD) | 85%               |
 | Mid Cap (2-10 Mrd. USD)  | [zu ermitteln]    |
 | Small Cap (<2 Mrd. USD)  | [zu ermitteln]    |
 | **Total**                | **100.0**         |
