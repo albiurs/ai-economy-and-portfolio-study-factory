@@ -50,37 +50,40 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
   * iShares Nikkei 225 UCITS ETF (Acc) - IE00B52MJD48 - CSNKY - SIX Swiss Exchange/JPY
   * iShares Core MSCI EM IMI UCITS ETF (Acc) - IE00BKM4GZ66 - EIMI - SIX Swiss Exchange/USD
   * iShares MSCI EM ex-China UCITS ETF (Acc) - IE00BMG6Z448 - EXCH - SIX Swiss Exchange/USD
+  * iShares IV PLC-MSCI China A UCITS ETF USD CAP - IE00BQT3WG13 - CNYA - SIX Swiss Exchange/USD
   * Amundi MSCI India II UCITS ETF Acc - FR0010361683 - LYINC - SIX Swiss Exchange/CHF
+  * ISHARES ETF II (CH)-Gold CHF Hedged ETF (CH) A CHF CAP - CSGLDC - SIX Swiss Exchange/CHF
 
 ## 1.3. Strategische Ziel-Parameter und zu ermittelnde Allokationen
 
 * **Tabelle 1.3.1: Geografische Ziel-Allokation**
 
-| Region                      | Ziel-Gewichtung % |
-|:----------------------------|:------------------|
-| Nordamerika: USA            | 48%               |
-| Nordamerika: Kanada         | 2%                |
-| Europa: Schweiz (CH)        | 20%               |
-| Europa: Europa ex. CH       | 5%                |
-| Asien-Pazifik: Japan        | 5%                |
-| Asien-Pazifik: ex. Japan    | 5%                |
-| Emerging Markets: China     | 0%                |
-| Emerging Markets: ex. China | 15%               |
-| **Total**                   | **100.0**         |
+| Region                             | Ziel-Gewichtung % |
+|:-----------------------------------|:------------------|
+| Nordamerika: USA                   | 53%               |
+| Nordamerika: Kanada                | 2%                |
+| Europa: Schweiz (CH)               | 15%               |
+| Europa: Europa ex. CH              | 5%                |
+| Asien-Pazifik: Japan               | 5%                |
+| Asien-Pazifik: ex. Japan           | 0%                |
+| Emerging Markets: China (A-Aktien) | 10%               |
+| Emerging Markets: ex. China        | 15%               |
+| **Total**                          | **100.0**         |
 
 * **Tabelle 1.3.2: Sektorale Ziel-Allokation (als Resultat der Fondsauswahl)**
 
-| Sektor                 | Ziel-Gewichtung % |
-|:-----------------------|:------------------|
-| Technologie            | 33%                |
-| Finanzen               | [zu ermitteln]    |
-| Gesundheitswesen       | [zu ermitteln]    |
-| Industrie              | [zu ermitteln]    |
-| Basiskonsumgüter       | [zu ermitteln]    |
-| Zyklische Konsumgüter  | [zu ermitteln]    |
-| Energie                | [zu ermitteln]    |
-| Andere                 | [zu ermitteln]    |
-| **Total**              | **100.0**         |
+| Sektor                | Ziel-Gewichtung % |
+|:----------------------|:------------------|
+| Technologie           | 33%               |
+| Finanzen              | [zu ermitteln]    |
+| Gesundheitswesen      | 20%               |
+| Industrie             | [zu ermitteln]    |
+| Basiskonsumgüter      | [zu ermitteln]    |
+| Zyklische Konsumgüter | [zu ermitteln]    |
+| Energie               | [zu ermitteln]    |
+| Gold                  | 5%                |
+| Andere                | [zu ermitteln]    |
+| **Total**             | **100.0**         |
 
 * **Tabelle 1.3.3: Ziel-Allokation nach Marktkapitalisierung (als Resultat der Fondsauswahl)**
 

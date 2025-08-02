@@ -79,17 +79,18 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 * **Tabelle 1.3.2: Sektorale Ziel-Allokation (als Resultat der Fondsauswahl)**
 
-| Sektor                | Ziel-Gewichtung % | Begründung der Anpassung                   |
-|:----------------------|:------------------|:-------------------------------------------|
-| Technologie           | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Finanzen              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Gesundheitswesen      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Industrie             | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Basiskonsumgüter      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Zyklische Konsumgüter | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Energie               | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Andere                | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| **Total**             | **100.0**         | **-**                                      |
+| Sektor                | Ziel-Gewichtung % | Begründung der Anpassung                    |
+|:----------------------|:------------------|:--------------------------------------------|
+| Technologie           | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| Finanzen              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| Gesundheitswesen      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| Industrie             | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| Basiskonsumgüter      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| Zyklische Konsumgüter | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| Energie               | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| Gold                  | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Andere                | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
+| **Total**             | **100.0**         | **-**                                       |
 
 * **Tabelle 1.3.3: Ziel-Allokation nach Marktkapitalisierung (als Resultat der Fondsauswahl)**
 
