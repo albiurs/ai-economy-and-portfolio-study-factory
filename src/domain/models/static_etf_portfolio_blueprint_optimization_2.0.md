@@ -52,7 +52,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
   * iShares MSCI EM ex-China UCITS ETF (Acc) - IE00BMG6Z448 - EXCH - SIX Swiss Exchange/USD
   * iShares IV PLC-MSCI China A UCITS ETF USD CAP - IE00BQT3WG13 - CNYA - SIX Swiss Exchange/USD
   * Amundi MSCI India II UCITS ETF Acc - FR0010361683 - LYINC - SIX Swiss Exchange/CHF
-  * ISHARES ETF II (CH)-Gold CHF Hedged ETF (CH) A CHF CAP - CSGLDC - SIX Swiss Exchange/CHF
+  * iShares Gold CHF Hedged ETF (CH) - CH0104136285 - CSGLDC - SIX Swiss Exchange/CHF
 
 ## 1.3. Strategische Ziel-Parameter und zu ermittelnde Allokationen
 
@@ -81,7 +81,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 | Basiskonsumgüter      | [zu ermitteln]    |
 | Zyklische Konsumgüter | [zu ermitteln]    |
 | Energie               | [zu ermitteln]    |
-| Gold                  | 5%                |
+| Edelmetalle: Gold     | 5%                |
 | Andere                | [zu ermitteln]    |
 | **Total**             | **100.0**         |
 
@@ -158,11 +158,11 @@ Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung ei
   
 * **Tabelle III-1: ETF-Vergleich**
 
-| Fondsname     | Anbieter  | ISIN      | Ref.Index | Repl.-Methode | Fd.-Währung | Thes. (j/n) | TER % p.a. | AUM       | Ant. EM % | TD 1J %   | TD 3J %   | TD 5J %   | TD 10J %  | TE 1J %   | TE 3J %   | TE 5J %   | TE 10J %  | Hand.-Platz | Kurs      |
-|:--------------|:----------|:----------|:----------|:--------------|:------------|:------------|:-----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:------------|:----------|
-| [Fondsname 1] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | ##REF_X##   | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | ##REF_X## |
-| [Fondsname 2] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | ##REF_X##   | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | ##REF_X## |
-| ...           |           |           |           |               |             |             |            |           |           |           |           |           |           |           |           |           |           |             |           |
+| Fondsname | Anbieter  | ISIN      | Ref.Index | Repl.-Methode | Fd.-Währung | Thes. (j/n)     | TER % p.a. | AUM       | TD 1J %   | TD 3J %   | TD 5J %   | TD 10J %  | TE 1J %   | TE 3J %   | TE 5J %   | TE 10J %  | Hand.-Platz | Auswahl (j/n) |
+|:----------|:----------|:----------|:----------|:--------------|:------------|:----------------|:-----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:------------|---------------|
+| [Name 1]  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | [j/n] ##REF_X## | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | [j/n]         |
+| [Name 2]  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | [j/n] ##REF_X## | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | [j/n]         |
+| ...       |           |           |           |               |             |                 |            |           |           |           |           |           |           |           |           |           |             | [j/n]         |
 
 ### Titel: `B. Final Portfolio Composition`
 Zeige die finale Umsetzung des Portfolios in der folgenden Tabelle:

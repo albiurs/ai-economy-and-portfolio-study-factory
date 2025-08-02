@@ -65,32 +65,32 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 * **Tabelle 1.3.1: Geografische Ziel-Allokation**
 
-| Region                      | Baseline       | Taktische Anpassung (+/- %) | Ziel-Gewichtung % | Begründung der Anpassung                   |
-|:----------------------------|:---------------|:----------------------------|:------------------|:-------------------------------------------|
-| Nordamerika: USA            | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Nordamerika: Kanada         | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Europa: Schweiz (CH)        | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Europa: Europa ex. CH       | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Asien-Pazifik: Japan        | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Asien-Pazifik: ex. Japan    | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Emerging Markets: China     | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Emerging Markets: ex. China | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| **Total**                   | **100.0**      | **-**                       | **100.0**         | **-**                                      |
+| Region                             | Baseline       | Taktische Anpassung (+/- %) | Ziel-Gewichtung % | Begründung der Anpassung                   |
+|:-----------------------------------|:---------------|:----------------------------|:------------------|:-------------------------------------------|
+| Nordamerika: USA                   | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Nordamerika: Kanada                | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Europa: Schweiz (CH)               | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Europa: Europa ex. CH              | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Asien-Pazifik: Japan               | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Asien-Pazifik: ex. Japan           | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Emerging Markets: China (A-Aktien) | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Emerging Markets: ex. China        | [zu ermitteln] | [zu ermitteln]              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| **Total**                          | **100.0**      | **-**                       | **100.0**         | **-**                                      |
 
 * **Tabelle 1.3.2: Sektorale Ziel-Allokation (als Resultat der Fondsauswahl)**
 
-| Sektor                | Ziel-Gewichtung % | Begründung der Anpassung                    |
-|:----------------------|:------------------|:--------------------------------------------|
-| Technologie           | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| Finanzen              | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| Gesundheitswesen      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| Industrie             | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| Basiskonsumgüter      | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| Zyklische Konsumgüter | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| Energie               | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| Gold                  | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Andere                | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4]  |
-| **Total**             | **100.0**         | **-**                                       |
+| Sektor                            | Ziel-Gewichtung % | Begründung der Anpassung                   |
+|:----------------------------------|:------------------|:-------------------------------------------|
+| Technologie                       | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Finanzen                          | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Gesundheitswesen                  | 25%               | [Begründung basierend auf Analyse von 1.4] |
+| Industrie                         | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Basiskonsumgüter                  | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Zyklische Konsumgüter             | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Energie                           | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| Edelmetalle: Gold CHF Hedged (CH) | 5%                | [Begründung basierend auf Analyse von 1.4] |
+| Andere                            | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
+| **Total**                         | **100.0**         | **-**                                      |
 
 * **Tabelle 1.3.3: Ziel-Allokation nach Marktkapitalisierung (als Resultat der Fondsauswahl)**
 
@@ -162,11 +162,11 @@ Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung ei
   
 * **Tabelle III-1: ETF-Vergleich**
 
-| Fondsname     | Anbieter  | ISIN      | Ref.Index | Repl.-Methode | Fd.-Währung | Thes. (j/n) | TER % p.a. | AUM       | Ant. EM % | TD 1J %   | TD 3J %   | TD 5J %   | TD 10J %  | TE 1J %   | TE 3J %   | TE 5J %   | TE 10J %  | Hand.-Platz | Kurs      |
-|:--------------|:----------|:----------|:----------|:--------------|:------------|:------------|:-----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:------------|:----------|
-| [Fondsname 1] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | ##REF_X##   | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | ##REF_X## |
-| [Fondsname 2] | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | ##REF_X##   | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | ##REF_X## |
-| ...           |           |           |           |               |             |             |            |           |           |           |           |           |           |           |           |           |           |             |           |
+| Fondsname | Anbieter  | ISIN      | Ref.Index | Repl.-Methode | Fd.-Währung | Thes. (j/n)     | TER % p.a. | AUM       | TD 1J %   | TD 3J %   | TD 5J %   | TD 10J %  | TE 1J %   | TE 3J %   | TE 5J %   | TE 10J %  | Hand.-Platz | Auswahl (j/n) |
+|:----------|:----------|:----------|:----------|:--------------|:------------|:----------------|:-----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:------------|---------------|
+| [Name 1]  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | [j/n] ##REF_X## | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | [j/n]         |
+| [Name 2]  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | [j/n] ##REF_X## | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | [j/n]         |
+| ...       |           |           |           |               |             |                 |            |           |           |           |           |           |           |           |           |           |             | [j/n]         |
 
 ### Titel: `B. Final Portfolio Composition`
 Zeige die finale Umsetzung des Portfolios in der folgenden Tabelle:
