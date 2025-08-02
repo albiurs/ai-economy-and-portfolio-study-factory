@@ -83,12 +83,12 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 |:----------------------------------|:------------------|:-------------------------------------------|
 | Technologie                       | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
 | Finanzen                          | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Gesundheitswesen                  | 25%               | [Begründung basierend auf Analyse von 1.4] |
+| Gesundheitswesen                  | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
 | Industrie                         | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
 | Basiskonsumgüter                  | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
 | Zyklische Konsumgüter             | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
 | Energie                           | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
-| Edelmetalle: Gold CHF Hedged (CH) | 5%                | [Begründung basierend auf Analyse von 1.4] |
+| Edelmetalle: Gold CHF Hedged (CH) | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
 | Andere                            | [zu ermitteln]    | [Begründung basierend auf Analyse von 1.4] |
 | **Total**                         | **100.0**         | **-**                                      |
 
