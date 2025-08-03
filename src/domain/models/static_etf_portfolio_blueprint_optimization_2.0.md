@@ -76,7 +76,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 |:----------------------|:------------------|
 | Technologie           | 33%               |
 | Finanzen              | [zu ermitteln]    |
-| Gesundheitswesen      | 20%               |
+| Gesundheitswesen      | 15%               |
 | Industrie             | [zu ermitteln]    |
 | Basiskonsumgüter      | [zu ermitteln]    |
 | Zyklische Konsumgüter | [zu ermitteln]    |
