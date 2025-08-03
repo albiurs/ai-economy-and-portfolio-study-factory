@@ -120,3 +120,5 @@ Deine einzige und kritischste Aufgabe in diesem Abschnitt ist die Durchführung 
 | [j/n]: [Begründung] | [Name 1]  |          |      |        | [Ref.Index] |              | [Fd.Währung] | [j/n]  | [j/n] | [Repl.-Methode] |     |            |         |         |         |          |         |         |         | [Link]    |
 | [j/n]: [Begründung] | [Name 2]  |          |      |        | [Ref.Index] |              | [Fd.Währung] | [j/n]  | [j/n] | [Repl.-Methode] |     |            |         |         |         |          |         |         |         | [Link]    |
 | ...                 |           |          |      |        |             |              |              |        |       |                 |     |            |         |         |         |          |         |         |         |           |
+
+* **Prüfung der Tabellen und Daten:** Prüfe vor dem Abschluss des Berichts nochmals, ob **alle Tabellen korrekt mit allen Spalten** aufgebaut sind. Prüfe danach nochmals die **Vollständigkeit und Korrektheit aller Daten** in den Tabellen.
