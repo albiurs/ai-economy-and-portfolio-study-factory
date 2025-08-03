@@ -41,7 +41,6 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
   * iShares MSCI World Small Cap UCITS ETF - IE00BF4RFH31 - IUSN - Xetra/EUR
   * iShares Core S&P 500 UCITS ETF (Acc) - IE00B5BMR087 - CSSPX - SIX Swiss Exchange/USD
   * iShares MSCI Canada UCITS ETF (Acc) - IE00B52SF786 - CSCA - SIX Swiss Exchange/CAD
-  * iShares Core MSCI Europe UCITS ETF EUR (Acc) - IE00B4K48X80 - IMEA - SIX Swiss Exchange/CHF
   * iShares MSCI Europe ex-CH UCITS ETF (Acc) - IE0008F9FCT2 - IEUC - SIX Swiss Exchange/CHF
   * UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc - LU0977261329 - SW2CHB - SIX Swiss Exchange/CHF
   * iShares Core MSCI Pacific ex Japan UCITS ETF (Acc) - IE00B52MJY50 - CSPXJ - SIX Swiss Exchange/USD
@@ -49,7 +48,6 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
   * iShares Core MSCI EM IMI UCITS ETF (Acc) - IE00BKM4GZ66 - EIMI - SIX Swiss Exchange/USD
   * iShares MSCI EM ex-China UCITS ETF (Acc) - IE00BMG6Z448 - EXCH - SIX Swiss Exchange/USD
   * iShares IV PLC-MSCI China A UCITS ETF USD CAP - IE00BQT3WG13 - CNYA - SIX Swiss Exchange/USD
-  * Amundi MSCI India II UCITS ETF Acc - FR0010361683 - LYINC - SIX Swiss Exchange/CHF
   * iShares Nasdaq 100 UCITS ETF (Acc) - IE00B53SZB19 - CSNDX - SIX Swiss Exchange/USD
   * Xtrackers MSCI World Health Care UCITS ETF 1C - IE00BM67HK77 - XDWH - SIX Swiss Exchange/CHF
   * iShares Gold CHF Hedged ETF (CH) - CH0104136285 - CSGLDC - SIX Swiss Exchange/CHF
@@ -76,7 +74,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 |:----------------------|:------------------|
 | Technologie           | 33%               |
 | Finanzen              | [zu ermitteln]    |
-| Gesundheitswesen      | 20%               |
+| Gesundheitswesen      | [zu ermitteln]               |
 | Industrie             | [zu ermitteln]    |
 | Basiskonsumgüter      | [zu ermitteln]    |
 | Zyklische Konsumgüter | [zu ermitteln]    |

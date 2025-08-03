@@ -37,24 +37,24 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 * **Anlageziel:** Maximaler langfristiger, risikoadjustierter Vermögensaufbau.
 
 ## 1.2. Anlageuniversum und Auswahlkriterien (Materials)
-* **Anweisung:** Führe zum Zeitpunkt der Analyse eine dynamische Suche durch, um die optimalen ETFs oder Indexfonds zu identifizieren. Die Auswahl **muss streng** nach der folgenden, gewichteten Kriterienhierarchie erfolgen.
-* **Such- und Auswahlkriterien (priorisierte Reihenfolge):**
-  1. **Börsenkotierung:** Ausschliesslich Produkte, die an der **SIX Swiss Exchange** und wenn möglich in CHF (oder alternativ in einer Fremdwährung) gehandelt werden.
-  2. **Ertragsverwendung:** Ausschliesslich **thesaurierende (accumulating, Acc)** Fonds.
-  3. **Anlagestrategie:** Konzentriere dich auf breite, marktübliche Kernindizes (z.B. MSCI World, S&P 500, SPI, MSCI Emerging Markets IMI, Nasdaq 100). **Keine** ESG-, oder SRI-Produkte.
-  4. **Replikationsmethode:** **Physische Replikation** (vollständig oder optimiertes Sampling) ist stark zu bevorzugen.
-  5. **Anbieter:** Bevorzuge etablierte Anbieter (z.B. iShares, UBS, Xtrackers, Vanguard, Swisscanto, Amundi, Invesco).
-  6. **Quantitative Optimierungskriterien (in dieser Reihenfolge zu bewerten):**
-     * **Tracking-Differenz (TD):** Kritischstes Qualitätsmerkmal. Wähle den Fonds mit der geringsten negativen bzw. höchsten positiven TD über 1, 3, 5 und 10 Jahre.
-     * **Total Expense Ratio (TER):** So tief wie möglich, als sekundäres Kriterium zur TD.
-     * **Fondsvermögen (AUM):** So hoch wie möglich, um Liquidität sicherzustellen.
-     * **Tracking Error (TE):** So tief wie möglich.
+* **Anweisung:** Führe zum Zeitpunkt der Analyse eine dynamische Suche durch, um die optimalen ETFs oder Indexfonds zu identifizieren. Die Auswahl **muss streng** nach der folgenden, gewichteten Kriterienhierarchie erfolgen:
+  * **Such- und Auswahlkriterien (priorisierte Reihenfolge):**
+    1. **Börsenkotierung:** Ausschliesslich Produkte, die an der **SIX Swiss Exchange** und wenn möglich in CHF (oder alternativ in einer Fremdwährung) gehandelt werden.
+    2. **Ertragsverwendung:** Ausschliesslich **thesaurierende (accumulating, Acc)** Fonds.
+    3. **Anlagestrategie:** Konzentriere dich auf breite, marktübliche Kernindizes (z.B. MSCI World, S&P 500, SPI, MSCI Emerging Markets IMI, Nasdaq 100). **Keine** ESG-, oder SRI-Produkte.
+    4. **Replikationsmethode:** **Physische Replikation** (vollständig oder optimiertes Sampling) ist stark zu bevorzugen.
+    5. **Anbieter:** Bevorzuge etablierte Anbieter (z.B. iShares, UBS, Xtrackers, Vanguard, Swisscanto, Amundi, Invesco).
+    6. **Quantitative Optimierungskriterien (in dieser Reihenfolge zu bewerten):**
+       * **Tracking-Differenz (TD):** Kritischstes Qualitätsmerkmal. Wähle den Fonds mit der geringsten negativen bzw. höchsten positiven TD über 1, 3, 5 und 10 Jahre.
+       * **Total Expense Ratio (TER):** So tief wie möglich, als sekundäres Kriterium zur TD.
+       * **Fondsvermögen (AUM):** So hoch wie möglich, um Liquidität sicherzustellen.
+       * **Tracking Error (TE):** So tief wie möglich.
 
-  7. **Fallback-Logik:** * Falls für eine strategisch notwendige Anlageklasse kein ETF gefunden wird, der die oben definierten Kriterien erfüllt, weiche in der folgenden Reihenfolge von den Kriterien ab und **begründe jede Abweichung explizit**:
-     1. Wähle einen Fonds in EUR oder USD an der SIX.
-     2. Wähle einen Fonds in EUR oder USD an einer etablierten europäischen Börse.
-     3. Wähle einen Fonds in EUR oder USD oder einer anderen Fremdwährung an einer etablierten Börse ausserhalb Europas.
-     4. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
+    7. **Fallback-Logik:** * Falls für eine strategisch notwendige Anlageklasse kein ETF gefunden wird, der die oben definierten Kriterien erfüllt, weiche in der folgenden Reihenfolge von den Kriterien ab und **begründe jede Abweichung explizit**:
+       1. Wähle einen Fonds in EUR oder USD an der SIX.
+       2. Wähle einen Fonds in EUR oder USD an einer etablierten europäischen Börse.
+       3. Wähle einen Fonds in EUR oder USD oder einer anderen Fremdwährung an einer etablierten Börse ausserhalb Europas.
+       4. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
 
 ## 1.3. Strategische Ziel-Parameter und zu ermittelnde Allokationen
 * **Logik der Allokations-Ermittlung:**
@@ -130,6 +130,8 @@ Beschreibe die Methodik, die zur Erstellung und Analyse des Portfolios verwendet
 ### Titel: `B. Target Allocation Strategy`
 Präsentiere die in **Block 1** unter **'1.3. Strategische Zielparameter und zu ermittelnde Allokationen'** definierten Zielallokationen als die zu erreichenden Zielparameter des Modells. Verwende exakt die folgenden Tabellenstrukturen:
 
+* **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
+
 *   **Tabelle II-1: Geografische Zielallokation**
 
 | Region | Ziel-Gewichtung % |
@@ -158,17 +160,21 @@ Präsentiere die Ergebnisse der Analyse und Portfolio-Konstruktion in der folgen
 
 ### Titel: `A. Comparative Analysis and ETF Selection`
 Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung einer erschöpfenden Recherche zu jedem in Abschnitt '1.2. Anlageuniversum und Auswahlkriterien (Materials)' spezifizierten ETF und die vollständige Befüllung der folgenden Master-Datentabelle. Diese Tabelle dient als alleinige Quelle der Wahrheit ('Single Source of Truth') für alle nachfolgenden Berechnungen und Entscheidungen. Jede einzelne Zelle muss mit den aktuellsten verfügbaren Daten befüllt und mit einem `##REF_X##`-Platzhalter zitiert werden.
+
+* **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
   
 * **Tabelle III-1: ETF-Vergleich**
 
-| Fondsname | Anbieter  | ISIN      | Ref.Index | Repl.-Methode | Fd.-Währung | Thes. (j/n)     | TER % p.a. | AUM       | TD 1J %   | TD 3J %   | TD 5J %   | TD 10J %  | TE 1J %   | TE 3J %   | TE 5J %   | TE 10J %  | Hand.-Platz | Auswahl (j/n) |
-|:----------|:----------|:----------|:----------|:--------------|:------------|:----------------|:-----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:------------|---------------|
-| [Name 1]  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | [j/n] ##REF_X## | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | [j/n]         |
-| [Name 2]  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##     | ##REF_X##   | [j/n] ##REF_X## | ##REF_X##  | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X## | ##REF_X##   | [j/n]         |
-| ...       |           |           |           |               |             |                 |            |           |           |           |           |           |           |           |           |           |             | [j/n]         |
+| Auswahl             | Fondsname | Anbieter | ISIN | Ticker | Index       | Handelsplatz | Währung      | Hedged | Thes. | Repl.           | AUM | TER % p.a. | TD 1J % | TD 3J % | TD 5J % | TD 10J % | TE 1J % | TE 3J % | TE 5J % | Factsheet |
+|---------------------|:----------|:---------|:-----|--------|:------------|:-------------|:-------------|--------|:------|:----------------|:----|:-----------|:--------|:--------|:--------|:---------|:--------|:--------|:--------|-----------|
+| [j/n]: [Begründung] | [Name 1]  |          |      |        | [Ref.Index] |              | [Fd.Währung] | [j/n]  | [j/n] | [Repl.-Methode] |     |            |         |         |         |          |         |         |         | [Link]    |
+| [j/n]: [Begründung] | [Name 2]  |          |      |        | [Ref.Index] |              | [Fd.Währung] | [j/n]  | [j/n] | [Repl.-Methode] |     |            |         |         |         |          |         |         |         | [Link]    |
+| ...                 |           |          |      |        |             |              |              |        |       |                 |     |            |         |         |         |          |         |         |         |           |
 
 ### Titel: `B. Final Portfolio Composition`
 Zeige die finale Umsetzung des Portfolios in der folgenden Tabelle:
+
+* **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
 *   **Tabelle III-2: Finale Portfolio-Zusammenstellung**
 
@@ -180,7 +186,9 @@ Zeige die finale Umsetzung des Portfolios in der folgenden Tabelle:
 
 ### Titel: `C. Aggregated Portfolio Characteristics`
 Präsentiere die aggregierten, konsolidierten Eigenschaften des finalen Portfolios in den folgenden Tabellen und vergleiche sie mit den Zielvorgaben aus Abschnitt II.B.
-  
+
+* **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
+
 * **Tabelle III-3: Effektive Geografische Diversifikation**
 
 | Region | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
@@ -213,6 +221,8 @@ Führe für jeden in Abschnitt '1.4. Zu analysierende Gewinnchancen und Risikofa
 ###  Titel: `B. Risk Dashboard`
 Fasse die Ergebnisse in einer zusammen:
 
+* **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
+
 *   **Tabelle IV-1: Quantitatives Risiko-Dashboard**
 
 | Risikofaktor | Quantitative Portfolio-Exposure % | Art des Risikos / der Anfälligkeit | Bewerteter Einfluss (Tief/Mittel/Hoch) |
@@ -230,6 +240,8 @@ Führe für jede in Abschnitt '1.4. Zu analysierende Gewinnchancen und Risikofak
 
 ###  Titel: `E. Chance Dashboard`
 Fasse die Ergebnisse in einer zusammen:
+
+* **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
 *   **Tabelle IV-2: Quantitatives Gewinnchancen-Dashboard**
 
