@@ -36,19 +36,19 @@ Erstelle für mich einen fiktiven, global diversifizierten Portfolio-Analyseberi
   * Xtrackers MSCI World Health Care UCITS ETF 1C - IE00BM67HK77 - XDWH - SIX Swiss Exchange/CHF
   * iShares Gold CHF Hedged ETF (CH) - CH0104136285 - CSGLDC - SIX Swiss Exchange/CHF
 
-## Strategische Ziel-Parameter und zu ermittelnde Allokationen
+## Strategische Ziel-Parameter und aktuelle Portfolio-Allokationen
 
 * **Tabelle 1-2: Aktuelle Portfolio-Zusammenstellung**
 
-| Anbieter | Fd-Name | ISIN | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Zielallok. % | Effekt. Allok. % | Kurs | Anz. Anteile zu kaufen | Betrag in CHF |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| UBS | UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc | LU0977261329 | SIX | CHF | j   | 0.20 ##REF_57## | 20.0 | 19.94 | 27.69 ##REF_78## | 720 | 19'936.80 |
-| iShares | iShares Nasdaq 100 UCITS ETF (Acc) | IE00B53SZB19 | SIX | USD | j   | 0.30 ##REF_71## | 30.0 | 30.01 | 1'337.75 ##REF_79## | 20  | 30'010.00 |
-| iShares | iShares Core S&P 500 UCITS ETF (Acc) | IE00B5BMR087 | SIX | USD | j   | 0.07 ##REF_49## | 15.0 | 15.00 | 599.90 ##REF_80## | 25  | 15'000.00 |
-| Xtrackers | Xtrackers MSCI World Health Care UCITS ETF 1C | IE00BM67HK77 | SIX | CHF | j   | 0.25 ##REF_73## | 15.0 | 15.00 | 49.86 ##REF_73## | 301 | 15'007.86 |
-| iShares | iShares MSCI EM ex-China UCITS ETF (Acc) | IE00BMG6Z448 | SIX | USD | j   | 0.18 ##REF_65## | 15.0 | 14.99 | 6.01 ##REF_81## | 2'494 | 14'988.94 |
-| iShares | iShares Gold CHF Hedged ETF (CH) | CH0104136285 | SIX | CHF | j   | 0.22 ##REF_76## | 5.0 | 5.00 | 215.10 ##REF_82## | 23  | 4'947.30 |
-| **Total** | **\-** | **\-** | **\-** | **\-** | **\-** | **0.23** | **100.0** | **99.94** | **\-** | **\-** | **99'890.90** |
+| Anbieter  | Fd-Name                                          | ISIN         | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER %           | Zielallok. % | Effekt. Allok. % | Kurs                | Anz. Anteile zu kaufen | Betrag in CHF |
+|-----------|--------------------------------------------------|--------------|-------------|-------------|-------------|-----------------|--------------|------------------|---------------------|------------------------|---------------|
+| UBS       | UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc | LU0977261329 | SIX         | CHF         | j           | 0.20 ##REF_57## | 20.0         | 19.94            | 27.69 ##REF_78##    | 720                    | 19'936.80     |
+| iShares   | iShares Nasdaq 100 UCITS ETF (Acc)               | IE00B53SZB19 | SIX         | USD         | j           | 0.30 ##REF_71## | 30.0         | 30.01            | 1'337.75 ##REF_79## | 20                     | 30'010.00     |
+| iShares   | iShares Core S&P 500 UCITS ETF (Acc)             | IE00B5BMR087 | SIX         | USD         | j           | 0.07 ##REF_49## | 15.0         | 15.00            | 599.90 ##REF_80##   | 25                     | 15'000.00     |
+| Xtrackers | Xtrackers MSCI World Health Care UCITS ETF 1C    | IE00BM67HK77 | SIX         | CHF         | j           | 0.25 ##REF_73## | 15.0         | 15.00            | 49.86 ##REF_73##    | 301                    | 15'007.86     |
+| iShares   | iShares MSCI EM ex-China UCITS ETF (Acc)         | IE00BMG6Z448 | SIX         | USD         | j           | 0.18 ##REF_65## | 15.0         | 14.99            | 6.01 ##REF_81##     | 2'494                  | 14'988.94     |
+| iShares   | iShares Gold CHF Hedged ETF (CH)                 | CH0104136285 | SIX         | CHF         | j           | 0.22 ##REF_76## | 5.0          | 5.00             | 215.10 ##REF_82##   | 23                     | 4'947.30      |
+| **Total** | **\-**                                           | **\-**       | **\-**      | **\-**      | **\-**      | **0.23**        | **100.0**    | **99.94**        | **\-**              | **\-**                 | **99'890.90** |
 
 ## Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)
 * **Anweisung:** Führe eine umfassende Analyse des globalen makroökonomischen und geopolitischen Umfelds (Stand: heute) durch. Identifiziere mindestens 3-5 zentrale **Gewinnchancen** (z.B. technologischer Fortschritt, demografische Entwicklungen) und 3-5 zentrale **Risikofaktoren** (z.B. geopolitische Spannungen, Zinsänderungsrisiko, Inflationstrends, regulatorische Risiken), die für das Portfolio relevant sind. Prognostiziere und quantifiziere die zu erwartenden Gewinnchancen und Risikofaktoren für die Zeitperioden der nächsten 3-5 Jahre.
@@ -63,7 +63,7 @@ Leite die Studie ein, indem du die wissenschaftlichen Hintergründe der Anlageth
 JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
 
 Erläutere zum Schluss der Einleitung das fehlende Wissen betreffend die aktuelle globale makroökonomische und geopolitische Situation. 
-Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und geopolitische Situation zu analysieren und aufgrund der Basis der Resultate ein (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) diversifiziertes Musterportfolio zusammenzustellen. 
+Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und geopolitische Situation zu analysieren und aufgrund der Basis der Resultate das bestehende Musterportfolio (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) zu beurteilen und bei Bedarf neu zu diversifizieren. 
 
 ## II. METHODOLOGIE
 Erläutere die in **Block 1** unter **'Rahmenbedingungen des Portfolios'** festgelegten Parameter (Anlageziel, Risikoprofil, Horizont etc.) als Grundlage für die nachfolgende Analyse.
@@ -74,21 +74,27 @@ Beschreibe die Methodik, die zur Erstellung und Analyse des Portfolios verwendet
 Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien aus Abschnitt 'Ausgewählte Anlageinstrumente'.
 
 ### B. Zielallokationen
-Präsentiere die in **Block 1** unter **'Strategische Zielparameter und zu ermittelnde Allokationen'** definierten Zielallokationen als die zu erreichenden Zielparameter des Modells. Verwende exakt die folgenden Tabellenstrukturen:
+Präsentiere das in **Block 1** unter **'Strategische Zielparameter und zu ermittelnde Allokationen'** definierte Musterportfolio. Verwende exakt die folgenden Tabellenstrukturen:
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
-*   **Tabelle II-1: Geografische Zielallokation**
+*   **Tabelle II-1: Aktuelle Portfolio-Zusammenstellung**
+
+| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Zielallok. % | Effekt. Allok. % | Kurs   | Anz. Anteile zu kaufen | Betrag in CHF |
+|:-----------|:--------|:-------|:------------|:------------|:------------|:------|:-------------|:-----------------|:-------|:-----------------------|:--------------|
+| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** | **100.0**    |                  | **-**  | **-**                  |               |
+
+*   **Tabelle II-2: Geografische Zielallokation**
 
 | Region | Ziel-Gewichtung % |
 | :--- | :--- |
   
-* **Tabelle II-2: Sektorale Ziel-Allokation**
+* **Tabelle II-3: Sektorale Ziel-Allokation**
 
 | Sektor | Ziel-Gewichtung % |
 | :--- | :--- |
   
-* **Tabelle II-3: Ziel-Allokation nach Marktkapitalisierung**
+* **Tabelle II-4: Ziel-Allokation nach Marktkapitalisierung**
 
 | Marktkapitalisierung | Ziel-Gewichtung % |
 | :--- | :--- |
@@ -120,17 +126,17 @@ Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung ei
 | ...                 |           |          |      |        |             |              |              |        |       |                 |     |            |         |         |         |          |         |         |         |           |
 
 ### B. Finale Portfoliokomposition
-Zeige die finale Umsetzung des Portfolios in der folgenden Tabelle:
+Zeige die finale Umsetzung des **optimierten** Portfolios in der folgenden Tabelle:
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
-*   **Tabelle III-2: Finale Portfolio-Zusammenstellung**
+*   **Tabelle III-2: Finale optimierte Portfolio-Zusammenstellung**
 
-| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Zielallok. % | Effekt. Allok. % | Kurs   | Anz. Anteile zu kaufen | Betrag in CHF |
-|:-----------|:--------|:-------|:------------|:------------|:------------|:------|:-------------|:-----------------|:-------|:-----------------------|:--------------|
-| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** | **100.0**    |                  | **-**  | **-**                  |               |
+| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Bisherige Allok. % | Zielallok. % | Angepasste. Allok. % | Änderung % | Kurs   | Anz. Anteile zu kaufen/verkaufen +/- |   | Betrag in CHF | Begründung für Anpassung |
+|:-----------|:--------|:-------|:------------|:------------|:------------|:------|--------------------|:-------------|:---------------------|------------|:-------|:-------------------------------------|---|:--------------|--------------------------|
+| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** |                    | **100.0**    |                      |            | **-**  | **-**                                |   |               |                          |
 
-* **Begründung der Auswahl:** Liefere eine detaillierte Begründung für die spezifischen ETFs, die zur Erfüllung der Allokationen aus 'B. Target Allocation Strategy' ausgewählt wurden. Für Regionen, Sektoren oder bei der Marktkapitalisierung, in denen mehrere ETFs zur Verfügung stehen (z.B. MSCI Japan, MSCI World), lege explizit dar, warum ein ETF gegenüber den anderen bevorzugt wurde. Begründe ausserdem die gewählte prozentuale Aufteilung zwischen den ausgewählten ETFs, um die Zielallokationen bestmöglich zu approximieren.
+* **Begründung der Auswahl:** Liefere eine detaillierte Begründung für die spezifischen ETFs, die zur Erfüllung der Allokationen aus 'B. Finale Portfoliokomposition' ausgewählt wurden. Für Regionen, Sektoren oder bei der Marktkapitalisierung, in denen mehrere ETFs zur Verfügung stehen (z.B. MSCI Japan, MSCI World), lege explizit dar, warum ein ETF gegenüber den anderen bevorzugt wurde. Begründe ausserdem die gewählte prozentuale Aufteilung zwischen den ausgewählten ETFs, um die Zielallokationen bestmöglich zu approximieren.
 
 ### C. Aggregierte und konsolidierten Eigenschaften des finalen Portfolios
 Präsentiere die aggregierten, konsolidierten Eigenschaften des finalen Portfolios in den folgenden Tabellen und vergleiche sie mit den Zielvorgaben aus Abschnitt II.B.
