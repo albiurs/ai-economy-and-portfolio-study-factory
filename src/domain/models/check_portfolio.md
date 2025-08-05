@@ -18,7 +18,23 @@ Erstelle für mich einen fiktiven, global diversifizierten Portfolio-Analyseberi
 * **Risikoprofil:** Hoch. Das Portfolio soll als detailliertes Muster für einen maximal wachstumsorientierten, langfristigen Vermögensaufbau dienen, der die aktuelle Weltlage berücksichtigt.
 * **Anlageziel:** Maximaler langfristiger, risikoadjustierter Vermögensaufbau.
 
+## Strategische Ziel-Parameter und aktuelle Portfolio-Allokationen
+Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation aller Positionen des aktuellen Portfolios. Dieses Portfolio bildet die Baseline-Allokation, welche es in der Folge zu optimieren gilt.
+
+* **Tabelle 0-1: Aktuelle Portfolio-Zusammenstellung**
+
+| Anbieter  | Fd-Name                                          | ISIN         | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER %    | Zielallok. %    | Effekt. Allok. % | Kurs     | Anz. Anteile | Betrag in CHF |
+|-----------|--------------------------------------------------|--------------|-------------|-------------|-------------|----------|-----------------|------------------|----------|--------------|---------------|
+| UBS       | UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc | LU0977261329 | SIX         | CHF         | j           | 0.20     | 20.0            | 19.94            | 27.69    | 720          | 19'936.80     |
+| iShares   | iShares Nasdaq 100 UCITS ETF (Acc)               | IE00B53SZB19 | SIX         | USD         | j           | 0.30     | 30.0            | 30.01            | 1'337.75 | 20           | 30'010.00     |
+| iShares   | iShares Core S&P 500 UCITS ETF (Acc)             | IE00B5BMR087 | SIX         | USD         | j           | 0.07     | 15.0            | 15.00            | 599.90   | 25           | 15'000.00     |
+| Xtrackers | Xtrackers MSCI World Health Care UCITS ETF 1C    | IE00BM67HK77 | SIX         | CHF         | j           | 0.25     | 15.0            | 15.00            | 49.86    | 301          | 15'007.86     |
+| iShares   | iShares MSCI EM ex-China UCITS ETF (Acc)         | IE00BMG6Z448 | SIX         | USD         | j           | 0.18     | 15.0            | 14.99            | 6.01     | 2'494        | 14'988.94     |
+| iShares   | iShares Gold CHF Hedged ETF (CH)                 | CH0104136285 | SIX         | CHF         | j           | 0.22     | 5.0             | 5.00             | 215.10   | 23           | 4'947.30      |
+| **Total** | **\-**                                           | **\-**       | **\-**      | **\-**      | **\-**      | **0.23** | **100.0**       | **99.94**        | **\-**   | **\-**       | **99'890.90** |
+
 ## Anlageuniversum und Auswahlkriterien (Materials)
+Die nachfolgende Liste mit Fonds ist das primäre Anlageuniversum, mit welchen das Portfolio bei Bedarf neu ausgerichtet oder weiter diversifiziert werden kann:
   * iShares Core MSCI World UCITS ETF (Acc) - IE00B4L5Y983 - SWDA - SIX Swiss Exchange/USD
   * iShares MSCI World Small Cap UCITS ETF - IE00BF4RFH31 - IUSN - Xetra/EUR
   * iShares Core S&P 500 UCITS ETF (Acc) - IE00B5BMR087 - CSSPX - SIX Swiss Exchange/USD
@@ -36,19 +52,7 @@ Erstelle für mich einen fiktiven, global diversifizierten Portfolio-Analyseberi
   * Xtrackers MSCI World Health Care UCITS ETF 1C - IE00BM67HK77 - XDWH - SIX Swiss Exchange/CHF
   * iShares Gold CHF Hedged ETF (CH) - CH0104136285 - CSGLDC - SIX Swiss Exchange/CHF
 
-## Strategische Ziel-Parameter und aktuelle Portfolio-Allokationen
-
-* **Tabelle 1-2: Aktuelle Portfolio-Zusammenstellung**
-
-| Anbieter  | Fd-Name                                          | ISIN         | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER %           | Zielallok. % | Effekt. Allok. % | Kurs                | Anz. Anteile zu kaufen | Betrag in CHF |
-|-----------|--------------------------------------------------|--------------|-------------|-------------|-------------|-----------------|--------------|------------------|---------------------|------------------------|---------------|
-| UBS       | UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc | LU0977261329 | SIX         | CHF         | j           | 0.20 ##REF_57## | 20.0         | 19.94            | 27.69 ##REF_78##    | 720                    | 19'936.80     |
-| iShares   | iShares Nasdaq 100 UCITS ETF (Acc)               | IE00B53SZB19 | SIX         | USD         | j           | 0.30 ##REF_71## | 30.0         | 30.01            | 1'337.75 ##REF_79## | 20                     | 30'010.00     |
-| iShares   | iShares Core S&P 500 UCITS ETF (Acc)             | IE00B5BMR087 | SIX         | USD         | j           | 0.07 ##REF_49## | 15.0         | 15.00            | 599.90 ##REF_80##   | 25                     | 15'000.00     |
-| Xtrackers | Xtrackers MSCI World Health Care UCITS ETF 1C    | IE00BM67HK77 | SIX         | CHF         | j           | 0.25 ##REF_73## | 15.0         | 15.00            | 49.86 ##REF_73##    | 301                    | 15'007.86     |
-| iShares   | iShares MSCI EM ex-China UCITS ETF (Acc)         | IE00BMG6Z448 | SIX         | USD         | j           | 0.18 ##REF_65## | 15.0         | 14.99            | 6.01 ##REF_81##     | 2'494                  | 14'988.94     |
-| iShares   | iShares Gold CHF Hedged ETF (CH)                 | CH0104136285 | SIX         | CHF         | j           | 0.22 ##REF_76## | 5.0          | 5.00             | 215.10 ##REF_82##   | 23                     | 4'947.30      |
-| **Total** | **\-**                                           | **\-**       | **\-**      | **\-**      | **\-**      | **0.23**        | **100.0**    | **99.94**        | **\-**              | **\-**                 | **99'890.90** |
+Diese Liste ist nicht erschöpfend und kann bei Bedarf mit weiteren ETF's erweitert werden, sofern diese für die Neuausrichtung des Portfolios erforderlich sind oder wenn alternative Titel bessere Qualitätsdaten liefern.
 
 ## Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)
 * **Anweisung:** Führe eine umfassende Analyse des globalen makroökonomischen und geopolitischen Umfelds (Stand: heute) durch. Identifiziere mindestens 3-5 zentrale **Gewinnchancen** (z.B. technologischer Fortschritt, demografische Entwicklungen) und 3-5 zentrale **Risikofaktoren** (z.B. geopolitische Spannungen, Zinsänderungsrisiko, Inflationstrends, regulatorische Risiken), die für das Portfolio relevant sind. Prognostiziere und quantifiziere die zu erwartenden Gewinnchancen und Risikofaktoren für die Zeitperioden der nächsten 3-5 Jahre.
@@ -71,36 +75,39 @@ Erläutere die in **Block 1** unter **'Rahmenbedingungen des Portfolios'** festg
 Beschreibe die Methodik, die zur Erstellung und Analyse des Portfolios verwendet wird.
 
 ### A. Zielparameter
-Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien aus Abschnitt 'Ausgewählte Anlageinstrumente'.
+Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien aus dem Abschnitt 'Ausgewählte Anlageinstrumente'.
 
-### B. Zielallokationen
-Präsentiere das in **Block 1** unter **'Strategische Zielparameter und zu ermittelnde Allokationen'** definierte Musterportfolio. Verwende exakt die folgenden Tabellenstrukturen:
+### B. Allokationen des Baseline-Portfolios
+* **Anweisung:** Präsentiere das in **Block 1** unter **'Aktuelle Portfolio-Zusammenstellung'** definierte Musterportfolio. Verwende exakt die folgenden Tabellenstrukturen:
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
 *   **Tabelle II-1: Aktuelle Portfolio-Zusammenstellung**
 
-| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Zielallok. % | Effekt. Allok. % | Kurs   | Anz. Anteile zu kaufen | Betrag in CHF |
-|:-----------|:--------|:-------|:------------|:------------|:------------|:------|:-------------|:-----------------|:-------|:-----------------------|:--------------|
-| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** | **100.0**    |                  | **-**  | **-**                  |               |
+| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Zielallok. % | Effekt. Allok. % | Kurs   | Anz. Anteile          | Betrag in CHF |
+|:-----------|:--------|:-------|:------------|:------------|:------------|:------|:-------------|:-----------------|:-------|:----------------------|:--------------|
+| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** | **100.0**    |                  | **-**  | **-**                 |               |
 
+* **Anweisung:** Analysiere die Allokationen des Baseline-Portfolios nach Region:
 *   **Tabelle II-2: Geografische Zielallokation**
 
-| Region | Ziel-Gewichtung % |
-| :--- | :--- |
+| Region | Gewichtung % |
+|:-------|:-------------|
   
+* **Anweisung:** Analysiere die Allokationen des Baseline-Portfolios nach Sektor:
 * **Tabelle II-3: Sektorale Ziel-Allokation**
 
-| Sektor | Ziel-Gewichtung % |
-| :--- | :--- |
-  
+| Sektor | Gewichtung % |
+|:-------|:-------------|
+
+* **Anweisung:** Analysiere die Allokationen des Baseline-Portfolios nach Marktkapitalisierung: 
 * **Tabelle II-4: Ziel-Allokation nach Marktkapitalisierung**
 
-| Marktkapitalisierung | Ziel-Gewichtung % |
-| :--- | :--- |
+| Marktkapitalisierung | Gewichtung % |
+|:---------------------|:-------------|
 
 ### C. Analytischer Prozess
-Beschreibe den analytischen Prozess. Erkläre, dass eine vergleichende Analyse der Instrumente durchgeführt wird, um eine optimale Allokation zur Erreichung der Zielparameter zu bestimmen. Detailliere hier die Methodik zur Ermittlung von Tracking-Differenz (TD) und Tracking Error (TE) wie folgt:
+* **Anweisung:** Beschreibe den analytischen Prozess. Erkläre, dass eine vergleichende Analyse der Instrumente durchgeführt wird, um eine optimale Allokation zur Erreichung der Zielparameter zu bestimmen. Detailliere hier die Methodik zur Ermittlung von Tracking-Differenz (TD) und Tracking Error (TE) wie folgt:
 
 * **Tracking-Differenz (TD):** Die Angabe der TD ist für 1, 3, 5 und 10 Jahre (p.a., falls möglich) zwingend. **Anweisung zur Berechnung:** Greife auf das offizielle, aktuellste Factsheet des Fonds zu. Berechne die TD mit der Formel: $TD = \text{Fonds-Gesamtrendite in \%} - \text{Benchmark-Gesamtrendite in \%}$. **Stelle sicher, dass die Rendite-Zeiträume exakt übereinstimmen.** Falls für einen Zeitraum keine Daten verfügbar sind, markiere dies mit "n.v." (nicht verfügbar).
 
@@ -113,7 +120,7 @@ Beschreibe den analytischen Prozess. Erkläre, dass eine vergleichende Analyse d
 Präsentiere die Ergebnisse der Analyse und Portfolio-Konstruktion in der folgenden logischen Reihenfolge.
 
 ### A. Umfassende Analyse der ETF-Selektion
-Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung einer erschöpfenden Recherche zu jedem in Abschnitt 'Anlageuniversum und Auswahlkriterien (Materials)' spezifizierten ETF und die vollständige Befüllung der folgenden Master-Datentabelle. Diese Tabelle dient als alleinige Quelle der Wahrheit ('Single Source of Truth') für alle nachfolgenden Berechnungen und Entscheidungen. Jede einzelne Zelle muss mit den aktuellsten verfügbaren Daten befüllt werden.
+* **Anweisung:** Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung einer erschöpfenden Recherche zu jedem in Abschnitt 'Anlageuniversum und Auswahlkriterien (Materials)' spezifizierten ETF und die vollständige Befüllung der folgenden Master-Datentabelle. Diese Tabelle dient als alleinige Quelle der Wahrheit ('Single Source of Truth') für alle nachfolgenden Berechnungen und Entscheidungen. Jede einzelne Zelle muss mit den aktuellsten verfügbaren Daten befüllt werden.
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
@@ -126,37 +133,40 @@ Deine erste und kritischste Aufgabe in diesem Abschnitt ist die Durchführung ei
 | ...                 |           |          |      |        |             |              |              |        |       |                 |     |            |         |         |         |          |         |         |         |           |
 
 ### B. Finale Portfoliokomposition
-Zeige die finale Umsetzung des **optimierten** Portfolios in der folgenden Tabelle:
+* **Anweisung:** Optimiere die Portfolio-Allokation basierend auf der durchgeführten Analyse der geopolitischen und makroökonomischen Chancen und Risiken. Berücksichtige bei der Neuausrichtung des Portfolios auch die Beurteilung einer allfälligen möglichen Reduktion der Anzahl von ETF-Positionen, um beim zukünftigen Rebalancing Kosten einsparen zu können. Zeige die finale Umsetzung des **neu ausgerichteten optimierten** Portfolios in der folgenden Tabelle:
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
 *   **Tabelle III-2: Finale optimierte Portfolio-Zusammenstellung**
 
-| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Bisherige Allok. % | Zielallok. % | Angepasste. Allok. % | Änderung % | Kurs   | Anz. Anteile zu kaufen/verkaufen +/- |   | Betrag in CHF | Begründung für Anpassung |
-|:-----------|:--------|:-------|:------------|:------------|:------------|:------|--------------------|:-------------|:---------------------|------------|:-------|:-------------------------------------|---|:--------------|--------------------------|
-| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** |                    | **100.0**    |                      |            | **-**  | **-**                                |   |               |                          |
+| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Bisherige Allok. % | Zielallok. % | Angepasste. Allok. % | Änderung % | Kurs   | Anz. Anteile | Betrag in CHF | Begründung für Anpassung |
+|:-----------|:--------|:-------|:------------|:------------|:------------|:------|--------------------|:-------------|:---------------------|------------|:-------|:-------------|:--------------|--------------------------|
+| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** |                    | **100.0**    |                      |            | **-**  | **-**        |               |                          |
 
-* **Begründung der Auswahl:** Liefere eine detaillierte Begründung für die spezifischen ETFs, die zur Erfüllung der Allokationen aus 'B. Finale Portfoliokomposition' ausgewählt wurden. Für Regionen, Sektoren oder bei der Marktkapitalisierung, in denen mehrere ETFs zur Verfügung stehen (z.B. MSCI Japan, MSCI World), lege explizit dar, warum ein ETF gegenüber den anderen bevorzugt wurde. Begründe ausserdem die gewählte prozentuale Aufteilung zwischen den ausgewählten ETFs, um die Zielallokationen bestmöglich zu approximieren.
+* **Begründung der Auswahl:** Liefere eine detaillierte Begründung für die spezifischen ETFs, die zur Erfüllung der neu ausgerichteten Allokationen aus 'B. Finale Portfoliokomposition' ausgewählt wurden. Für Regionen, Sektoren oder bei der Marktkapitalisierung, in denen mehrere ETFs zur Verfügung stehen (z.B. MSCI Japan, MSCI World), lege explizit dar, warum ein ETF gegenüber den anderen bevorzugt wurde. Begründe ausserdem die gewählte prozentuale Aufteilung zwischen den ausgewählten ETFs, um die optimierte Zielallokation bestmöglich zu approximieren.
 
 ### C. Aggregierte und konsolidierten Eigenschaften des finalen Portfolios
 Präsentiere die aggregierten, konsolidierten Eigenschaften des finalen Portfolios in den folgenden Tabellen und vergleiche sie mit den Zielvorgaben aus Abschnitt II.B.
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
-* **Tabelle III-3: Effektive Geografische Diversifikation**
+Analysiere die Neu-Allokationen des optimierten Portfolios nach Region:
+* **Tabelle III-3: Optimierte geografische Diversifikation**
 
-| Region | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
-| :--- | :--- | :--- | :--- |
+| Region | Ursprüngliche Gewichtung % | Neue Gewichtung % | Abweichung % |
+|:-------|:---------------------------|:------------------|:-------------|
 
-*   **Tabelle III-4: Effektive Sektorale Diversifikation**
+Analysiere die Neu-Allokationen des optimierten Portfolios nach Sektor:
+*   **Tabelle III-4: Optimierte sektorale Diversifikation**
 
-| Sektor | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
-| :--- | :--- | :--- | :--- |
+| Sektor | Ursprüngliche Gewichtung % | Neue Gewichtung % | Abweichung % |
+|:-------|:---------------------------|:------------------|:-------------|
 
-*   **Tabelle III-5: Effektive Diversifikation nach Marktkapitalisierung**
+Analysiere die Neu-Allokationen des optimierten Portfolios nach Marktkapitalisierung:
+*   **Tabelle III-5: Optimierte Diversifikation nach Marktkapitalisierung**
 
-| Marktkapitalisierung | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
-| :--- | :--- | :--- | :--- |
+| Marktkapitalisierung | Ursprüngliche Gewichtung % | Neue Gewichtung % | Abweichung % |
+|:---------------------|:---------------------------|:------------------|:-------------|
 
 
 
