@@ -72,8 +72,6 @@ Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und 
 ## II. METHODOLOGIE
 Erläutere die in **Block 1** unter **'Rahmenbedingungen des Portfolios'** festgelegten Parameter (Anlageziel, Risikoprofil, Horizont etc.) als Grundlage für die nachfolgende Analyse.
 
-Beschreibe die Methodik, die zur Erstellung und Analyse des Portfolios verwendet wird.
-
 ### A. Zielparameter
 Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien aus dem Abschnitt 'Ausgewählte Anlageinstrumente'.
 
@@ -107,6 +105,9 @@ Beschreibe das Anlageuniversum und die strengen, priorisierten Auswahlkriterien 
 |:---------------------|:-------------|
 
 ### C. Analytischer Prozess
+
+Beschreibe die Methodik, die zur Analyse und Anpassung des ETF-Portfolios verwendet wird.
+
 * **Anweisung:** Beschreibe den analytischen Prozess. Erkläre, dass eine vergleichende Analyse der Instrumente durchgeführt wird, um eine optimale Allokation zur Erreichung der Zielparameter zu bestimmen. Detailliere hier die Methodik zur Ermittlung von Tracking-Differenz (TD) und Tracking Error (TE) wie folgt:
 
 * **Tracking-Differenz (TD):** Die Angabe der TD ist für 1, 3, 5 und 10 Jahre (p.a., falls möglich) zwingend. **Anweisung zur Berechnung:** Greife auf das offizielle, aktuellste Factsheet des Fonds zu. Berechne die TD mit der Formel: $TD = \text{Fonds-Gesamtrendite in \%} - \text{Benchmark-Gesamtrendite in \%}$. **Stelle sicher, dass die Rendite-Zeiträume exakt übereinstimmen.** Falls für einen Zeitraum keine Daten verfügbar sind, markiere dies mit "n.v." (nicht verfügbar).
