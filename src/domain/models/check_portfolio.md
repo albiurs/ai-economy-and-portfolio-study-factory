@@ -19,7 +19,7 @@ Erstelle für mich einen fiktiven, global diversifizierten Portfolio-Analyseberi
 * **Anlageziel:** Maximaler langfristiger, risikoadjustierter Vermögensaufbau.
 
 ## Strategische Ziel-Parameter und aktuelle Portfolio-Allokationen
-Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation aller Positionen des aktuellen Portfolios. Dieses Portfolio bildet die Baseline-Allokation, welche es in der Folge zu optimieren gilt.
+Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des aktuellen Portfolios. Dieses Portfolio bildet die Baseline-Allokation, welche es in der Folge zu optimieren gilt.
 
 * **Tabelle 0-1: Aktuelle Portfolio-Zusammenstellung**
 
@@ -52,10 +52,27 @@ Die nachfolgende Liste mit Fonds ist das primäre Anlageuniversum, mit welchen d
   * Xtrackers MSCI World Health Care UCITS ETF 1C - IE00BM67HK77 - XDWH - SIX Swiss Exchange/CHF
   * iShares Gold CHF Hedged ETF (CH) - CH0104136285 - CSGLDC - SIX Swiss Exchange/CHF
 
-Diese Liste ist nicht erschöpfend und kann bei Bedarf mit weiteren ETF's erweitert werden, sofern diese für die Neuausrichtung des Portfolios erforderlich sind oder wenn alternative Titel bessere Qualitätsdaten liefern.
+* **Anweisung:** Diese Liste ist nicht erschöpfend. Führe zum Zeitpunkt der Analyse eine dynamische Recherche und Analyse durch, um basierend auf den analysierten Chancen und Risiken, zusätzliche ETFs oder Indexfonds zu finden, die optimalen Fonds zu identifizieren und die Liste mit weiteren ETF's zu erweitern, welche für die Neuausrichtung / Diversifikation des Portfolios erforderlich sind oder um zu analysieren, ob alternative Titel bessere Qualitätsdaten liefern (z.B. bessere TD, tiefere TER). Die Auswahl der Fonds **muss streng** nach der folgenden, gewichteten Kriterienhierarchie erfolgen:
+  * **Such- und Auswahlkriterien (priorisierte Reihenfolge):**
+    1. **Börsenkotierung:** Ausschliesslich Produkte, die an der **SIX Swiss Exchange** und wenn möglich in CHF (oder alternativ in einer Fremdwährung) gehandelt werden.
+    2. **Ertragsverwendung:** Ausschliesslich **thesaurierende (accumulating, Acc)** Fonds.
+    3. **Anlagestrategie:** Konzentriere dich auf breite, marktübliche Kernindizes (z.B. MSCI World, S&P 500, SPI, MSCI Emerging Markets IMI, Nasdaq 100). **Keine** ESG-, oder SRI-Produkte.
+    4. **Replikationsmethode:** **Physische Replikation** (vollständig oder optimiertes Sampling) ist stark zu bevorzugen.
+    5. **Anbieter:** Bevorzuge etablierte Anbieter (z.B. iShares, UBS, Xtrackers, Vanguard, Swisscanto, Amundi, Invesco).
+    6. **Quantitative Optimierungskriterien (in dieser Reihenfolge zu bewerten):**
+       * **Tracking-Differenz (TD):** Kritischstes Qualitätsmerkmal. Wähle den Fonds mit der geringsten negativen bzw. höchsten positiven TD über 1, 3, 5 und 10 Jahre.
+       * **Total Expense Ratio (TER):** So tief wie möglich, als sekundäres Kriterium zur TD.
+       * **Fondsvermögen (AUM):** So hoch wie möglich, um Liquidität sicherzustellen.
+       * **Tracking Error (TE):** So tief wie möglich.
+
+    7. **Fallback-Logik:** * Falls für eine strategisch notwendige Anlageklasse kein ETF gefunden wird, der die oben definierten Kriterien erfüllt, weiche in der folgenden Reihenfolge von den Kriterien ab und **begründe jede Abweichung explizit**:
+       1. Wähle einen Fonds in EUR oder USD an der SIX.
+       2. Wähle einen Fonds in EUR oder USD an einer etablierten europäischen Börse.
+       3. Wähle einen Fonds in EUR oder USD oder einer anderen Fremdwährung an einer etablierten Börse ausserhalb Europas.
+       4. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
 
 ## Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)
-* **Anweisung:** Führe eine umfassende Analyse des globalen makroökonomischen und geopolitischen Umfelds (Stand: heute) durch. Identifiziere mindestens 3-5 zentrale **Gewinnchancen** (z.B. technologischer Fortschritt, demografische Entwicklungen) und 3-5 zentrale **Risikofaktoren** (z.B. geopolitische Spannungen, Zinsänderungsrisiko, Inflationstrends, regulatorische Risiken), die für das Portfolio relevant sind. Prognostiziere und quantifiziere die zu erwartenden Gewinnchancen und Risikofaktoren für die Zeitperioden der nächsten 3-5 Jahre.
+* **Anweisung:** Führe eine umfassende Analyse des globalen makroökonomischen und geopolitischen Umfelds (Stand: heute) durch. Identifiziere mindestens 3-5 zentrale **Gewinnchancen** (z.B. technologischer Fortschritt, globale Verschiebungen, demografische Entwicklungen) und 3-5 zentrale **Risikofaktoren** (z.B. geopolitische Spannungen, Zinsänderungsrisiko, Inflationstrends, regulatorische Risiken), die für das Portfolio relevant sind. Prognostiziere und quantifiziere die zu erwartenden Gewinnchancen und Risikofaktoren für die Zeitperioden der nächsten 3-5 Jahre.
 
 
 
@@ -67,7 +84,7 @@ Leite die Studie ein, indem du die wissenschaftlichen Hintergründe der Anlageth
 JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache muss mit einem sicheren Platzhalter `##REF_X##` belegt werden.
 
 Erläutere zum Schluss der Einleitung das fehlende Wissen betreffend die aktuelle globale makroökonomische und geopolitische Situation. 
-Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und geopolitische Situation zu analysieren und aufgrund der Basis der Resultate das bestehende Musterportfolio (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) zu beurteilen und bei Bedarf neu zu diversifizieren. 
+Ziel und Zweck dieser Studie ist es, die aktuelle globale makroökonomische und geopolitische Situation zu analysieren und aufgrund der Basis dieser Analyse das bestehende Musterportfolio (geografisch, betreffend Wirtschaftssektoren und betreffend Marktkapitalisierung) zu beurteilen und bei Bedarf neu auszurichten oder besser zu diversifizieren. 
 
 ## II. METHODOLOGIE
 Erläutere die in **Block 1** unter **'Rahmenbedingungen des Portfolios'** festgelegten Parameter (Anlageziel, Risikoprofil, Horizont etc.) als Grundlage für die nachfolgende Analyse.
@@ -134,20 +151,21 @@ Präsentiere die Ergebnisse der Analyse und Portfolio-Konstruktion in der folgen
 | ...                 |           |          |      |        |             |              |              |        |       |                 |     |            |         |         |         |          |         |         |         |           |
 
 ### B. Finale Portfoliokomposition
-* **Anweisung:** Optimiere die Portfolio-Allokation basierend auf der durchgeführten Analyse der geopolitischen und makroökonomischen Chancen und Risiken. Berücksichtige bei der Neuausrichtung des Portfolios auch die Beurteilung einer allfälligen möglichen Reduktion der Anzahl von ETF-Positionen, um beim zukünftigen Rebalancing Kosten einsparen zu können. Zeige die finale Umsetzung des **neu ausgerichteten optimierten** Portfolios in der folgenden Tabelle:
+* **Anweisung:** Optimiere die Portfolio-Allokation basierend auf der durchgeführten Analyse der geopolitischen und makroökonomischen **Chancen und Risiken**. Berücksichtige bei der Neuausrichtung des Portfolios auch die Beurteilung einer allfälligen möglichen **Reduktion der Anzahl von ETF-Positionen**, um beim zukünftigen **Rebalancing** **Kosten einsparen** zu können (z.B. MSCI World anstatt S&P 500 + MSCI Europe + MSCI Pacific). Zeige die finale Umsetzung des **neu ausgerichteten optimierten** Portfolios in der folgenden Tabelle:
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
 *   **Tabelle III-2: Finale optimierte Portfolio-Zusammenstellung**
 
-| Anbieter   | Fd-Name | ISIN   | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER % | Bisherige Allok. % | Zielallok. % | Angepasste. Allok. % | Änderung % | Kurs   | Anz. Anteile | Betrag in CHF | Begründung für Anpassung |
-|:-----------|:--------|:-------|:------------|:------------|:------------|:------|--------------------|:-------------|:---------------------|------------|:-------|:-------------|:--------------|--------------------------|
-| **Total**  | **-**   | **-**  | **-**       | **-**       | **-**       | **-** |                    | **100.0**    |                      |            | **-**  | **-**        |               |                          |
+| Anbieter   | Name     | ISIN   | Hand.-Platz | Währung       | Thes. | TER % | Bish. Allok. %         | Ziel-Allok. %    | Neue Allok. %     | Änderung % | Kurs   | Anz. Anteile | Betrag in CHF | Begründung für Anpassung |
+|:-----------|:---------|:-------|:------------|:--------------|:------|:------|------------------------|:-----------------|:------------------|------------|:-------|:-------------|:--------------|--------------------------|
+|            | Fondname |        |             | [Fondwährung] | (j/n) |       | [bisherige Allokation] | [Zielallokaiton] | [neue Allokation] |            |        |              |               |                          |
+| **Total**  | **-**    | **-**  | **-**       | **-**         | **-** | **-** |                        | **100.0**        |                   |            | **-**  | **-**        |               |                          |
 
 * **Begründung der Auswahl:** Liefere eine detaillierte Begründung für die spezifischen ETFs, die zur Erfüllung der neu ausgerichteten Allokationen aus 'B. Finale Portfoliokomposition' ausgewählt wurden. Für Regionen, Sektoren oder bei der Marktkapitalisierung, in denen mehrere ETFs zur Verfügung stehen (z.B. MSCI Japan, MSCI World), lege explizit dar, warum ein ETF gegenüber den anderen bevorzugt wurde. Begründe ausserdem die gewählte prozentuale Aufteilung zwischen den ausgewählten ETFs, um die optimierte Zielallokation bestmöglich zu approximieren.
 
 ### C. Aggregierte und konsolidierten Eigenschaften des finalen Portfolios
-Präsentiere die aggregierten, konsolidierten Eigenschaften des finalen Portfolios in den folgenden Tabellen und vergleiche sie mit den Zielvorgaben aus Abschnitt II.B.
+Präsentiere die aggregierten, konsolidierten Eigenschaften des finalen optimierten Portfolios in den folgenden Tabellen und vergleiche sie mit den Allokationen des Baseline-Portfolios aus Abschnitt 'Allokationen des Baseline-Portfolios'.
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
 
@@ -181,7 +199,7 @@ Führe für jeden in Abschnitt 'Zu analysierende Gewinnchancen und Risikofaktore
     3.  **Qualitative Beurteilung:** Beurteile den potenziellen Einfluss des Risikos auf das Portfolio, basierend auf recherchierten Fakten `##REF_X##`.
     4.  **Fazit für das Portfolio:** Begründe, warum die gewählte Portfoliostruktur angesichts dieses Risikos und der quantifizierten Exposition als robust oder anfällig eingeschätzt wird.
 
-###  B. Risiko-Dashboard
+####  B. Risiko-Dashboard
 Fasse die Ergebnisse in einer zusammen:
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
@@ -191,7 +209,7 @@ Fasse die Ergebnisse in einer zusammen:
 | Risikofaktor | Quantitative Portfolio-Exposure % | Art des Risikos / der Anfälligkeit | Bewerteter Einfluss (Tief/Mittel/Hoch) |
 |:-------------|:----------------------------------|:-----------------------------------|:---------------------------------------|
 
-###  C. Analyse ergänzender identifizierter Risiken
+####  C. Analyse ergänzender identifizierter Risiken
 Untersuche kritisch die aggregierten Portfolioeigenschaften aus Abschnitt 'III. RESULTATE'. Identifiziere und diskutiere alle weiteren signifikanten Konzentrationsrisiken, die sich ergeben haben (z.B. übermässige Exposition gegenüber einem einzelnen Unternehmen, einem Sub-Sektor, einem spezifischen Währungsblock oder einem Segment der Marktkapitalisierung). Begründe, warum diese Konzentration ein bemerkenswertes Risiko darstellt.
 
 ###  D. Analyse identifizierter Gewinnchancen
@@ -201,7 +219,7 @@ Führe für jede in Abschnitt 'Zu analysierende Gewinnchancen und Risikofaktoren
     3.  **Qualitative Beurteilung:** Beurteile den potenziellen Einfluss jeder Chance auf das Portfolio, basierend auf recherchierten Fakten `##REF_X##`.
     4.  **Fazit für das Portfolio:** Begründe, warum die gewählte Portfoliostruktur angesichts dieser Chance und der quantifizierten Exposition als robust oder anfällig eingeschätzt wird.
 
-###  E. Gewinnchancen-Dashboard
+####  E. Gewinnchancen-Dashboard
 Fasse die Ergebnisse in einer zusammen:
 
 * **Darstellung Tabellen:** Erstelle ausschliesslich vollständig ausgefüllte Tabellen mit der exakten Struktur. **Halte dich strikt an die vorgegebene Tabellenstruktur**:
@@ -211,7 +229,7 @@ Fasse die Ergebnisse in einer zusammen:
 | Gewinnchance | Quantitative Portfolio-Exposure % | Art der Gewinnchance / Wachstumschance | Bewerteter Einfluss (Tief/Mittel/Hoch) |
 |:-------------|:----------------------------------|:---------------------------------------|:---------------------------------------|
 
-###  F. Analyse identifizierter Gewinnchancen
+####  F. Analyse identifizierter Gewinnchancen
 Untersuche kritisch die aggregierten Portfolioeigenschaften aus Abschnitt 'III. RESULTS'. Identifiziere und diskutiere alle weiteren signifikanten Konzentrationschancen, die sich ergeben haben (z.B. übermässige Exposition gegenüber einem einzelnen Unternehmen, einem Sub-Sektor, einem spezifischen Währungsblock oder einem Segment der Marktkapitalisierung). Begründe, warum diese Konzentration eine bemerkenswerte Gewinnchance bzw. Wachstumschance darstellt.
 
 
