@@ -19,7 +19,7 @@ Erstelle für mich einen fiktiven, global diversifizierten Portfolio-Analyseberi
 * **Anlageziel:** Maximaler langfristiger, risikoadjustierter Vermögensaufbau.
 
 ## Strategische Ziel-Parameter und aktuelle Portfolio-Allokationen
-Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des aktuellen Portfolios. Dieses Portfolio bildet die Baseline-Allokation, welche es in der Folge zu optimieren gilt.
+Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des **aktuellen Baseline-Portfolios**. Dieses Portfolio bildet die **Baseline-Allokation**, welche es in der Folge zu optimieren gilt.
 
 * **Tabelle 0-1: Aktuelle Portfolio-Zusammenstellung**
 
@@ -34,7 +34,7 @@ Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des 
 | **Total** | **\-**                                           | **\-**       | **\-**      | **\-**      | **\-**      | **0.23** | **100.0**       | **99.94**        | **\-**   | **\-**       | **99'890.90** |
 
 ## Anlageuniversum und Auswahlkriterien (Materials)
-Die nachfolgende Liste mit Fonds ist das primäre Anlageuniversum, mit welchen das Portfolio bei Bedarf neu ausgerichtet oder weiter diversifiziert werden kann:
+Die nachfolgende Liste mit Fonds ist das primäre Anlageuniversum, mit welchen das Portfolio **nur bei Bedarf** **neu ausgerichtet oder weiter diversifiziert** werden kann:
   * iShares Core MSCI World UCITS ETF (Acc) - IE00B4L5Y983 - SWDA - SIX Swiss Exchange/USD
   * iShares MSCI World Small Cap UCITS ETF - IE00BF4RFH31 - IUSN - Xetra/EUR
   * iShares Core S&P 500 UCITS ETF (Acc) - IE00B5BMR087 - CSSPX - SIX Swiss Exchange/USD
