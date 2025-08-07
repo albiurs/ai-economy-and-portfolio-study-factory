@@ -71,6 +71,47 @@ Die nachfolgende Liste mit Fonds ist das primäre Anlageuniversum, mit welchen d
        3. Wähle einen Fonds in EUR oder USD oder einer anderen Fremdwährung an einer etablierten Börse ausserhalb Europas.
        4. Wähle einen synthetischen (Swap-basierten) Fonds und diskutiere das Kontrahentenrisiko.
 
+## Strategische Ziel-Parameter und zu ermittelnde Allokationen des aktuellen Baseline-Portfolios
+Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des **aktuellen Baseline-Portfolios**. Dieses Portfolio bildet die **Baseline-Allokation**, welche es in der Folge zu optimieren gilt.
+
+* **Tabelle 0-2: Geografische Ziel-Allokation des aktuellen Baseline-Portfolios**
+
+| Region                             | Ziel-Gewichtung % |
+|:-----------------------------------|:------------------|
+| Nordamerika: USA                   | 53%               |
+| Nordamerika: Kanada                | 2%                |
+| Europa: Schweiz (CH)               | 20%               |
+| Europa: Europa ex. CH              | 5%                |
+| Asien-Pazifik: Japan               | 3%                |
+| Asien-Pazifik: ex. Japan           | 2%                |
+| Emerging Markets: China (A-Aktien) | 0%                |
+| Emerging Markets: ex. China        | 15%               |
+| **Total**                          | **100.0**         |
+
+* **Tabelle 0-3: Sektorale Ziel-Allokation des aktuellen Baseline-Portfolios**
+
+| Sektor                | Ziel-Gewichtung % |
+|:----------------------|:------------------|
+| Technologie           | 33%               |
+| Finanzen              | [zu ermitteln]    |
+| Gesundheitswesen      | 15%               |
+| Industrie             | [zu ermitteln]    |
+| Basiskonsumgüter      | [zu ermitteln]    |
+| Zyklische Konsumgüter | [zu ermitteln]    |
+| Energie               | [zu ermitteln]    |
+| Edelmetalle: Gold     | 5%                |
+| Andere                | [zu ermitteln]    |
+| **Total**             | **100.0**         |
+
+* **Tabelle 0-4: Ziel-Allokation nach Marktkapitalisierung des aktuellen Baseline-Portfolios**
+
+| Marktkapitalisierung     | Ziel-Gewichtung % |
+|:-------------------------|:------------------|
+| Large Cap (>10 Mrd. USD) | 85%               |
+| Mid Cap (2-10 Mrd. USD)  | [zu ermitteln]    |
+| Small Cap (<2 Mrd. USD)  | [zu ermitteln]    |
+| **Total**                | **100.0**         |
+
 ## Zu analysierende Gewinnchancen und Risikofaktoren (Gain and Risk Framework)
 * **Anweisung:** Führe eine umfassende Analyse des globalen makroökonomischen und geopolitischen Umfelds (Stand: heute) durch. Identifiziere mindestens 3-5 zentrale **Gewinnchancen** (z.B. technologischer Fortschritt, globale Verschiebungen, demografische Entwicklungen) und 3-5 zentrale **Risikofaktoren** (z.B. geopolitische Spannungen, Zinsänderungsrisiko, Inflationstrends, regulatorische Risiken), die für das Portfolio relevant sind. Prognostiziere und quantifiziere die zu erwartenden Gewinnchancen und Risikofaktoren für die Zeitperioden der nächsten 3-5 Jahre.
 
