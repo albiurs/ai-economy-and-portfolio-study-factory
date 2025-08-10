@@ -60,14 +60,15 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 | Region                             | Ziel-Gewichtung % |
 |:-----------------------------------|:------------------|
-| Nordamerika: USA                   | 53%               |
-| Nordamerika: Kanada                | 2%                |
+| Nordamerika: USA                   | 50%               |
+| Nordamerika: Kanada                | [zu ermitteln]    |
 | Europa: Schweiz (CH)               | 20%               |
-| Europa: Europa ex. CH              | 5%                |
-| Asien-Pazifik: Japan               | 3%                |
-| Asien-Pazifik: ex. Japan           | 2%                |
+| Europa: Europa ex. CH              | [zu ermitteln]    |
+| Asien-Pazifik: Japan               | [zu ermitteln]    |
+| Asien-Pazifik: ex. Japan           | [zu ermitteln]    |
 | Emerging Markets: China (A-Aktien) | 0%                |
-| Emerging Markets: ex. China        | 15%               |
+| Emerging Markets: ex. China        | 10%               |
+| Indien                             | 10%               |
 | **Total**                          | **100.0**         |
 
 * **Tabelle 1.3.2: Sektorale Ziel-Allokation (als Resultat der Fondsauswahl)**
@@ -89,7 +90,7 @@ Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 
 | Marktkapitalisierung     | Ziel-Gewichtung % |
 |:-------------------------|:------------------|
-| Large Cap (>10 Mrd. USD) | 85%               |
+| Large Cap (>10 Mrd. USD) | 80%               |
 | Mid Cap (2-10 Mrd. USD)  | [zu ermitteln]    |
 | Small Cap (<2 Mrd. USD)  | [zu ermitteln]    |
 | **Total**                | **100.0**         |
@@ -132,17 +133,17 @@ Präsentiere die in **Block 1** unter **'1.3. Strategische Zielparameter und zu 
 *   **Tabelle II-1: Geografische Zielallokation**
 
 | Region | Ziel-Gewichtung % |
-| :--- | :--- |
+|:-------|:------------------|
   
 * **Tabelle II-2: Sektorale Ziel-Allokation**
 
 | Sektor | Ziel-Gewichtung % |
-| :--- | :--- |
+|:-------|:------------------|
   
 * **Tabelle II-3: Ziel-Allokation nach Marktkapitalisierung**
 
 | Marktkapitalisierung | Ziel-Gewichtung % |
-| :--- | :--- |
+|:---------------------|:------------------|
 
 ### Titel: `C. Analytical Process`
 Beschreibe den analytischen Prozess. Erkläre, dass eine vergleichende Analyse der Instrumente durchgeführt wird, um eine optimale Allokation zur Erreichung der Zielparameter zu bestimmen. Detailliere hier die Methodik zur Ermittlung von Tracking-Differenz (TD) und Tracking Error (TE) wie folgt:
@@ -189,20 +190,24 @@ Präsentiere die aggregierten, konsolidierten Eigenschaften des finalen Portfoli
 * **Tabelle III-3: Effektive Geografische Diversifikation**
 
 | Region | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
-| :--- | :--- | :--- | :--- |
+|:-------|:------------------|:-----------------------|:-------------|
 
 *   **Tabelle III-4: Effektive Sektorale Diversifikation**
 
 | Sektor | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
-| :--- | :--- | :--- | :--- |
+|:-------|:------------------|:-----------------------|:-------------|
 
 *   **Tabelle III-5: Effektive Diversifikation nach Marktkapitalisierung**
 
 | Marktkapitalisierung | Ziel-Gewichtung % | Effektive Gewichtung % | Abweichung % |
-| :--- | :--- | :--- | :--- |
+|:---------------------|:------------------|:-----------------------|:-------------|
 
-### Titel: `D. Look-Through Analysis of Individual Holdings`
-Führe für jedes einzelne Produkt aus 'Tabelle III-2: Finale Portfolio-Zusammenstellung' eine detaillierte "Look-Through"-Analyse durch. Nummeriere die Analyse für jeden ETF (E.1, E.2,...) und die dazugehörigen Tabellen (Tabelle III-6, Tabelle III-7,...) konsistent.
+### Titel: `D. Look-Through Analysis`
+Führe für jedes einzelne Produkt aus 'Tabelle III-2: Finale Portfolio-Zusammenstellung' eine detaillierte "Look-Through"-Analyse durch. Ermittle für jeden einzelnen Fonds im Portfolio: 
+1. die Allokation (prozentual innerhalb des Fonds und auch aggregiert im finalen Portfolio) bezüglich Geografie, Sektor und Marktkapitalisierung. 
+2. Die Top 10 Positionen mit prozentualem Anteil im finalen Portfolio.
+
+Nummeriere die Analyse für jeden ETF (E.1, E.2,...) und die dazugehörigen Tabellen (Tabelle III-6, Tabelle III-7,...) konsistent.
 
 
 ## Titel: `IV. DISCUSSION`

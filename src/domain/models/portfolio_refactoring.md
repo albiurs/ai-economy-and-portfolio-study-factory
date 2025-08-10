@@ -23,15 +23,16 @@ Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des 
 
 * **Tabelle 0-1: Aktuelle Portfolio-Zusammenstellung**
 
-| Anbieter  | Fd-Name                                          | ISIN         | Hand.-Platz | Fd.-Währung | Thes. (j/n) | TER %    | Zielallok. %    | Effekt. Allok. % | Kurs     | Anz. Anteile | Betrag in CHF |
-|-----------|--------------------------------------------------|--------------|-------------|-------------|-------------|----------|-----------------|------------------|----------|--------------|---------------|
-| UBS       | UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc | LU0977261329 | SIX         | CHF         | j           | 0.20     | 20.0            | 19.94            | 27.69    | 720          | 19'936.80     |
-| iShares   | iShares Nasdaq 100 UCITS ETF (Acc)               | IE00B53SZB19 | SIX         | USD         | j           | 0.30     | 30.0            | 30.01            | 1'337.75 | 20           | 30'010.00     |
-| iShares   | iShares Core S&P 500 UCITS ETF (Acc)             | IE00B5BMR087 | SIX         | USD         | j           | 0.07     | 15.0            | 15.00            | 599.90   | 25           | 15'000.00     |
-| Xtrackers | Xtrackers MSCI World Health Care UCITS ETF 1C    | IE00BM67HK77 | SIX         | CHF         | j           | 0.25     | 15.0            | 15.00            | 49.86    | 301          | 15'007.86     |
-| iShares   | iShares MSCI EM ex-China UCITS ETF (Acc)         | IE00BMG6Z448 | SIX         | USD         | j           | 0.18     | 15.0            | 14.99            | 6.01     | 2'494        | 14'988.94     |
-| iShares   | iShares Gold CHF Hedged ETF (CH)                 | CH0104136285 | SIX         | CHF         | j           | 0.22     | 5.0             | 5.00             | 215.10   | 23           | 4'947.30      |
-| **Total** | **\-**                                           | **\-**       | **\-**      | **\-**      | **\-**      | **0.23** | **100.0**       | **99.94**        | **\-**   | **\-**       | **99'890.90** |
+| Anbieter  | Fd-Name                                          | ISIN         | Fd.-Währung | Allok. %  |
+|-----------|--------------------------------------------------|--------------|-------------|-----------|
+| iShares   | iShares Core MSCI World UCITS ETF (Acc)          | IE00B4L5Y983 | USD         | 40        |
+| iShares   | iShares Nasdaq 100 UCITS ETF (Acc)               | IE00B53SZB19 | USD         | 30        |
+| UBS       | UBS MSCI Switzerland 20/35 UCITS ETF (CHF) A-acc | LU0977261329 | CHF         | 15        |
+| Xtrackers | Xtrackers MSCI World Health Care UCITS ETF 1C    | IE00BM67HK77 | CHF         | 10        |
+| iShares   | iShares MSCI EM ex-China UCITS ETF (Acc)         | IE00BMG6Z448 | USD         | 10        |
+| Amundi    | Amundi MSCI India II UCITS ETF Acc               | FR0010361683 | CHF         | 10        |
+| iShares   | iShares Gold CHF Hedged ETF (CH)                 | CH0104136285 | CHF         | 5         |
+| **Total** | **\-**                                           | **\-**       | **\-**      | **100.0** |
 
 ## Anlageuniversum und Auswahlkriterien (Materials)
 Die nachfolgende Liste mit Fonds ist das primäre Anlageuniversum, mit welchen das Portfolio **nur bei Bedarf** **neu ausgerichtet oder weiter diversifiziert** werden kann:
@@ -78,14 +79,15 @@ Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des 
 
 | Region                             | Ziel-Gewichtung % |
 |:-----------------------------------|:------------------|
-| Nordamerika: USA                   | 53%               |
+| Nordamerika: USA                   | 48%               |
 | Nordamerika: Kanada                | 2%                |
 | Europa: Schweiz (CH)               | 20%               |
 | Europa: Europa ex. CH              | 5%                |
 | Asien-Pazifik: Japan               | 3%                |
 | Asien-Pazifik: ex. Japan           | 2%                |
 | Emerging Markets: China (A-Aktien) | 0%                |
-| Emerging Markets: ex. China        | 15%               |
+| Emerging Markets: ex. China        | 10%               |
+| Indien                             | 10%               |
 | **Total**                          | **100.0**         |
 
 * **Tabelle 0-3: Sektorale Ziel-Allokation des aktuellen Baseline-Portfolios**
@@ -107,7 +109,7 @@ Die Tabelle 'Aktuelle Portfolio-Zusammenstellung' beinhaltet die Allokation des 
 
 | Marktkapitalisierung     | Ziel-Gewichtung % |
 |:-------------------------|:------------------|
-| Large Cap (>10 Mrd. USD) | 85%               |
+| Large Cap (>10 Mrd. USD) | 80%               |
 | Mid Cap (2-10 Mrd. USD)  | [zu ermitteln]    |
 | Small Cap (<2 Mrd. USD)  | [zu ermitteln]    |
 | **Total**                | **100.0**         |
