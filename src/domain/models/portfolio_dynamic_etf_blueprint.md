@@ -14,6 +14,9 @@ Bevor du den finalen Bericht erstellst, verbalisiere deinen gesamten Denk- und A
 ### Meta-Anweisung: Denkprozess während der Ausgabe
 Führe die folgende, mehrstufige Aufgabe exakt und ohne Abweichungen aus. Halte dich strikt an die vorgegebene Gliederung und die Formatierung der Tabellen.
 
+### Export
+Exportiere den Report als ./Report.md file.
+
 #### KRITISCHE ANWEISUNG ZUR ZITATION (3-STUFEN-PROZESS)
 Der folgende 3-Stufen-Prozess ist zwingend und nicht verhandelbar:
 * **STUFE 1: DRAFTING MIT SICHEREN PLATZHALTERN:** Während der gesamten Erstellung des Berichts (Text und Tabellen) **MUSST** du für **JEDE** Zitation einen temporären, sicheren Platzhalter im Format `##REF_1##`, `##REF_2##` usw. verwenden. Vergeben für jede neue Quelle eine neue sequenzielle Nummer. JEDE einzelne Aussage, Behauptung, Zahl oder recherchierte Tatsache **MUSS** einen solchen Platzhalter erhalten.
